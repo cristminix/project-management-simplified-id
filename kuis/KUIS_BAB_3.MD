@@ -1,4 +1,4 @@
-**Pertanyaan 1 dari 6**
+## **Pertanyaan 1 dari 6**
 
 **Proyek Anda melibatkan pembangunan gedung perkantoran kecil. Mengapa Anda tidak boleh menggunakan kata "sedang berlangsung" terkait pipa ledeng untuk gedung kantor?**
 
@@ -11,7 +11,7 @@
 
 - Ketika suatu tugas digambarkan sebagai sedang berlangsung, itu selalu mengarah pada keterlambatan dan pengeluaran berlebihan.
 
-**Pertanyaan 2 dari 6**
+## **Pertanyaan 2 dari 6**
 
 **Saundra bersiap untuk membuat daftar semua tugas yang dapat dikelola untuk proyeknya. Metode mana yang secara khusus menggunakan struktur perincian kerja (WBS)?**
 
@@ -26,7 +26,7 @@
 
 
 
-**Pertanyaan 3 dari 6**
+## **Pertanyaan 3 dari 6**
 
 **Terlalu banyak perincian menyebabkan _____.**
 
@@ -46,7 +46,7 @@
 **[Salah]**
 
 
-**Pertanyaan 4 dari 6**
+## **Pertanyaan 4 dari 6**
 
 **Marcus mengalami kesulitan memperkirakan biaya tugasnya. Tindakan apa yang akan Anda rekomendasikan untuk membantunya?**
 
@@ -61,7 +61,7 @@ Dia harus memecah tugas sampai dia dapat memperkirakan biayanya.** *Ya, jika And
 
 
 
-**Pertanyaan 5 dari 6**
+## **Pertanyaan 5 dari 6**
 
 **Sherry sedang merencanakan proyeknya dan telah bertukar pikiran dengan timnya, membuat daftar semua tugas. Apa langkah logis selanjutnya baginya untuk mengatur tugas?**
 
@@ -73,7 +73,7 @@ Dia harus memecah tugas sampai dia dapat memperkirakan biayanya.** *Ya, jika And
 - Lihatlah sejarah proyek serupa lainnya.
 - **Buat WBS.** *Ya, atur tugas-tugasnya sehingga dia dapat dengan mudah memeriksa apa saja yang terlewatkan.* **[Benar]**
 
-**Pertanyaan 6 dari 6**
+## **Pertanyaan 6 dari 6**
 
 **Bersamaan dengan membuat tim proyek Anda mengembangkan daftar tugas proyek, mengapa lagi Anda harus mengadakan sesi brainstorming/curah pendapat?**
 
