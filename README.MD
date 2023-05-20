@@ -21,9 +21,6 @@ indonesian subtitle for linkedlin learning course https://www.linkedin.com/learn
 - [Kuis Bab 3](kuis/KUIS_BAB_3.MD)
 
 ### Rencanakan Urutan Berjalan
-<<<<<<< HEAD
 - Gnkn Catatan Tempel Utk Mrncnkn Urtn Tgs
 - Bagaimana Memperkirakan Durasi
-=======
-- Gnkn Catatan Tempel Utk Mrncnkn Urtn Tgs
->>>>>>> 0b868610e59d04f7c5f20d80c44bffe232655ec3
+- Pentingnya Jalur Kritis Proyek Anda
