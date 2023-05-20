@@ -19,3 +19,6 @@ indonesian subtitle for linkedlin learning course https://www.linkedin.com/learn
 - Tiga Cara untuk membuat daftar tugas
 - Pilih Tingkat Perincian
 - [Kuis Bab 3](kuis/KUIS_BAB_3.MD)
+
+### Rencanakan Urutan Berjalan
+- Gnkn Catatan Tempel Utk Mrncnkn Urtn Tgs
