@@ -1,0 +1,312 @@
+WEBVTT
+
+1
+00:00:00.004 --> 00:00:03.002
+(Cara Menghitung dan Mnmbhkn Kontingensi)
+- Beberapa hal akan selalu salah, 
+- Some things will always go wrong,
+
+2
+00:00:03.002 --> 00:00:05.004
+atau setidaknya berbeda dari rencanamu. 
+or at least be different from your plan.
+
+3
+00:00:05.004 --> 00:00:08.000
+Jadi kita perlu menambahkan sedikit margin keamanan, 
+So we need to add a bit of safety margin,
+
+4
+00:00:08.000 --> 00:00:10.008
+atau kontingensi, ke dalam rencana kita. 
+or contingency, to our plan.
+
+5
+00:00:10.008 --> 00:00:12.008
+Dan saya ingin menunjukkan kepada Anda contoh nyata sekarang 
+And I want to show you a real example now
+
+6
+00:00:12.008 --> 00:00:16.000
+tentang bagaimana Anda benar-benar melakukannya. 
+of how you actually do it.
+
+7
+00:00:16.000 --> 00:00:18.005
+Ingatlah bahwa margin keamanan untuk uang 
+Remember that the safety margin for the money
+
+8
+00:00:18.005 --> 00:00:21.007
+harus didasarkan pada semua tugas dalam proyek, 
+needs to be based on all of the tasks in the project,
+
+9
+00:00:21.007 --> 00:00:25.001
+karena semuanya diperhitungkan dalam total biaya. 
+because they all count towards the total cost.
+
+10
+00:00:25.001 --> 00:00:27.008
+Namun untuk waktu, Anda hanya perlu menambahkan margin keselamatan 
+But for time, you only need to add safety margin
+
+11
+00:00:27.008 --> 00:00:29.009
+ke jalur kritis, karena itulah 
+to the critical path, because that's what
+
+12
+00:00:29.009 --> 00:00:32.005
+yang menentukan waktu total. 
+defines the total time.
+
+13
+00:00:32.005 --> 00:00:34.009
+Dan itulah yang akan saya tunjukkan sekarang. 
+And that's what I'll show you now.
+
+14
+00:00:34.009 --> 00:00:36.007
+Jadi inilah proyek saya, di mana saya mendirikan 
+So here's my project, where I'm setting up
+
+15
+00:00:36.007 --> 00:00:40.001
+cabang baru perusahaan saya di negara asing. 
+a new branch of my company in a foreign country.
+
+16
+00:00:40.001 --> 00:00:44.002
+Dan total waktu rencana saya mencapai 34 minggu. 
+And the total time of my plan comes to 34 weeks.
+
+17
+00:00:44.002 --> 00:00:47.007
+Tapi saya akan menambahkan margin keamanan ke jalur kritis saya, 
+But I'm going to add a safety margin to my critical path,
+
+18
+00:00:47.007 --> 00:00:50.002
+jadi rencana proyek saya 90% aman 
+so my project plan is 90% safe and
+
+19
+00:00:50.002 --> 00:00:54.006
+dan hanya ada 10% kemungkinan saya akan terlambat. 
+there's only a 10% chance that I will deliver late.
+
+20
+00:00:54.006 --> 00:00:57.003
+Pertama, berapa faktor keamanan yang perlu saya tambahkan 
+First, how much safety factor do I need to add
+
+21
+00:00:57.003 --> 00:01:01.004
+pada tugas pertama, yaitu memilih negara? 
+to the first task, which is choosing the country?
+
+22
+00:01:01.004 --> 00:01:05.000
+Yah, saya cukup percaya diri dalam empat minggu. 
+Well, I'm pretty confident in the four weeks.
+
+23
+00:01:05.000 --> 00:01:07.001
+Saya pernah melakukannya sebelumnya, dan selalu seperti itu, 
+I've done it before, and it always takes that,
+
+24
+00:01:07.001 --> 00:01:11.005
+jadi saya tidak akan menambahkan margin keamanan sama sekali untuk yang itu. 
+so I won't add any safety margin at all to that one.
+
+25
+00:01:11.005 --> 00:01:14.000
+Selanjutnya kita memiliki izin. 
+Next we have the permit.
+
+26
+00:01:14.000 --> 00:01:17.003
+(menarik napas) Ooh, yah, itu bisa terlambat sebulan, 
+(inhaling) Ooh, well, that could go late by a month,
+
+27
+00:01:17.003 --> 00:01:18.009
+atau bahkan mungkin dua bulan. 
+or maybe even two.
+
+28
+00:01:18.009 --> 00:01:23.004
+Katakanlah kasus terburuk adalah tambahan delapan minggu untuk itu. 
+Let's say worst case is eight weeks extra for that.
+
+29
+00:01:23.004 --> 00:01:25.006
+Lalu ada membeli situs. 
+Then there's buying the site.
+
+30
+00:01:25.006 --> 00:01:29.000
+(menghirup) Ooh, pengacara terlibat, ooh. 
+(inhaling) Ooh, lawyers involved, ooh.
+
+31
+00:01:29.000 --> 00:01:31.006
+Itu bisa terlambat sebulan. 
+That could go late by a month.
+
+32
+00:01:31.006 --> 00:01:33.004
+Jadi itu empat minggu lagi, 
+So that's another four weeks,
+
+33
+00:01:33.004 --> 00:01:37.001
+total kita sampai 12 minggu ekstra. 
+we're up to 12 extra weeks in total.
+
+34
+00:01:37.001 --> 00:01:39.007
+Kemudian memodifikasi bangunan. 
+Then modifying the building.
+
+35
+00:01:39.007 --> 00:01:42.006
+Mm, pembangun terlibat. 
+Mm, builders involved.
+
+36
+00:01:42.006 --> 00:01:45.003
+Meskipun delapan minggu sudah cukup banyak, 
+Although eight weeks is already quite a lot,
+
+37
+00:01:45.003 --> 00:01:48.001
+tapi saya masih akan mengatakan satu bulan keterlambatan 
+but I'm still going to say a month of lateness
+
+38
+00:01:48.001 --> 00:01:50.007
+ditambahkan, kasus terburuk. 
+added on, worst case.
+
+39
+00:01:50.007 --> 00:01:55.001
+Jadi total 12 minggu sekarang adalah 16 minggu. 
+So the 12 is now 16 weeks in total.
+
+40
+00:01:55.001 --> 00:01:58.001
+Memasang furnitur seharusnya baik-baik saja, 
+Installing furniture should be fine,
+
+41
+00:01:58.001 --> 00:02:01.009
+tetapi mungkin butuh waktu satu atau dua minggu lebih lama, jadi saya akan tambah dua. 
+but might take a week or two longer, so I'll add two.
+
+42
+00:02:01.009 --> 00:02:05.005
+Jadi kita sekarang total 18 minggu. 
+So we're now on 18 weeks in total.
+
+43
+00:02:05.005 --> 00:02:08.003
+Dan kemudian membuka, itu hanya sebuah acara. 
+And then opening, that's just an event.
+
+44
+00:02:08.003 --> 00:02:12.000
+Jadi kami memiliki total 18 minggu ekstra, 
+So we have a total of 18 extra weeks,
+
+45
+00:02:12.000 --> 00:02:15.006
+yang merupakan kasus terburuk mutlak yang mungkin kami tambahkan 
+which absolute worst case we might add
+
+46
+00:02:15.006 --> 00:02:19.003
+ke rata-rata total rencana kami selama 34 minggu. 
+to our total average plan of 34 weeks.
+
+47
+00:02:19.003 --> 00:02:21.009
+Tapi saya akan pergi ke poin 90% 
+But I'm going to go to the 90% point
+
+48
+00:02:21.009 --> 00:02:23.008
+daripada kasus terburuk mutlak, 
+rather than the absolute worst case,
+
+49
+00:02:23.008 --> 00:02:26.002
+jadi saya akan mengambil total rata-rata saya 34 
+so I'm going to take my average total of 34
+
+50
+00:02:26.002 --> 00:02:31.000
+dan saya akan tambah separuh dari kemungkinan keterlambatan extra, 
+and I'm going to add half of the possible extra lateness,
+
+51
+00:02:31.000 --> 00:02:35.002
+setengah dari 18, yang berarti saya menambahkan sembilan minggu ekstra, 
+half of the 18, which means I add nine extra weeks,
+
+52
+00:02:35.002 --> 00:02:38.007
+menjadikan saya total 43 minggu, 
+taking me to a total of 43 weeks,
+
+53
+00:02:38.007 --> 00:02:41.007
+dan itulah yang akan saya kutip ke pelanggan. 
+and that's what I will quote to the customer.
+
+54
+00:02:41.007 --> 00:02:45.005
+43 minggu itu kemungkinan 90% tercapai, 
+That 43 weeks is 90% likely to be achieved,
+
+55
+00:02:45.005 --> 00:02:49.001
+jadi itu adalah janji yang cukup aman untuk dibuat. 
+so it's a pretty safe promise to make.
+
+56
+00:02:49.001 --> 00:02:51.008
+Dan saya akan mendistribusikan sembilan minggu ekstra itu 
+And I'll distribute those extra nine weeks
+
+57
+00:02:51.008 --> 00:02:54.009
+selama proyek, kira-kira seperti ini. 
+throughout the project, something like this.
+
+58
+00:02:54.009 --> 00:03:00.003
+Saya mulai dengan empat, 10, 10, delapan, dan dua, 
+I'm starting with four, 10, 10, eight, and two,
+
+59
+00:03:00.003 --> 00:03:09.000
+dan itu akan menjadi lima, 13, 12, 10, dan tiga. 
+and that's going to become five, 13, 12, 10, and three.
+
+60
+00:03:09.000 --> 00:03:12.008
+Dan itulah cara Anda membuat rencana Anda 90% andal, 
+And that's how you make your plan 90% reliable,
+
+61
+00:03:12.008 --> 00:03:15.001
+dan bagaimana Anda kemudian dapat memberi pelanggan 
+and how you can then give your customer
+
+62
+00:03:15.001 --> 00:03:17.004
+Anda tanggal yang dapat mereka andalkan.
+a date that they can rely on.
