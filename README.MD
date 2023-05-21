@@ -30,3 +30,6 @@ indonesian subtitle for linkedlin learning course https://www.linkedin.com/learn
 - Berapa Margin Keamanan yang dibutuhkan Proyek
 - Cara Menghitung dan Menambahkan Kontingensi
 - [Kuis Bab 5](kuis/KUIS_BAB_5.MD)
+
+### Crashing / Percepatan Proyek
+- Bagaimana Mempercepat Rencana Anda
