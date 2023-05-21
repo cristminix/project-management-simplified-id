@@ -1,0 +1,417 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:03.000
+(Cara Membuat Bagan Gantt)
+- Sekarang kita sampai pada Langkah Enam 
+- Now we come to Step Six
+
+2
+00:00:03.000 --> 00:00:05.008
+yaitu membuat bagan Gantt Anda. 
+which is to create your Gantt chart.
+
+3
+00:00:05.008 --> 00:00:08.000
+Ini pada dasarnya hanyalah bagan batang yang menunjukkan 
+It's basically just a bar chart showing
+
+4
+00:00:08.000 --> 00:00:12.001
+semua tugas dalam rencana Anda yang digambar di sepanjang garis waktu. 
+all the tasks in your plan drawn along a timeline.
+
+5
+00:00:12.001 --> 00:00:13.005
+Bagan Gantt sangat bagus 
+Gantt charts are great
+
+6
+00:00:13.005 --> 00:00:16.002
+karena semuanya dibuat sesuai skala. 
+because everything's drawn out to scale.
+
+7
+00:00:16.002 --> 00:00:18.007
+Bahkan orang yang tidak tahu apa-apa tentang manajemen proyek 
+Even people who know nothing about project management
+
+8
+00:00:18.007 --> 00:00:21.001
+dapat langsung memahami apa yang mereka lihat, 
+can immediately understand what they're looking at,
+
+9
+00:00:21.001 --> 00:00:25.003
+dengan tugas di samping dan tanggal di atas. 
+with the tasks down the side and the dates across the top.
+
+10
+00:00:25.003 --> 00:00:28.003
+Membuat bagan Gantt Anda, dan disebut demikian 
+Creating your Gantt chart, and by the way it's called that
+
+11
+00:00:28.003 --> 00:00:30.003
+karena dibuat oleh Henry Gantt 
+because it was invented by Henry Gantt
+
+12
+00:00:30.003 --> 00:00:32.003
+sekitar seratus tahun yang lalu. 
+about a hundred years ago.
+
+13
+00:00:32.003 --> 00:00:34.006
+Membuatnya mudah jika Anda memiliki 
+Creating it is easy if you have
+
+14
+00:00:34.006 --> 00:00:36.008
+catatan tempel untuk dikerjakan. 
+the post-it notes to work from.
+
+15
+00:00:36.008 --> 00:00:38.006
+Jika Anda tidak peduli dengan catatan tempel 
+If you don't bother with the post-its
+
+16
+00:00:38.006 --> 00:00:40.009
+dan Anda langsung turun ke Gantt, 
+and you drop straight to the Gantt,
+
+17
+00:00:40.009 --> 00:00:44.004
+maka itu akan sangat sulit, hampir tidak mungkin. 
+then it will be really hard, almost impossible.
+
+18
+00:00:44.004 --> 00:00:46.006
+Ini akan memakan waktu lama dan kemungkinan besar 
+It'll take you ages and you'll very likely
+
+19
+00:00:46.006 --> 00:00:48.001
+Anda akan salah. 
+get some of it wrong.
+
+20
+00:00:48.001 --> 00:00:52.007
+Jadi selalu buat catatan tempel sebelum Anda membuat bagan Gantt Anda. 
+So always do the post-its before you make your Gantt chart.
+
+21
+00:00:52.007 --> 00:00:55.000
+Saya akan menunjukkan kepada Anda bagaimana Anda dapat dengan mudah mengubah 
+I'm going to show you how you can easily convert
+
+22
+00:00:55.000 --> 00:01:00.003
+rencana dalam catatan tempel menjadi bagan Gantt menggunakan Excel. 
+the post-it plan across into the Gantt chart using Excel.
+
+23
+00:01:00.003 --> 00:01:02.003
+Saya suka Excel karena semua orang memilikinya 
+I like Excel because everyone's got it
+
+24
+00:01:02.003 --> 00:01:04.006
+dan kita semua sudah tahu cara menggunakannya. 
+and we all know how to use it already.
+
+25
+00:01:04.006 --> 00:01:07.000
+Tetapi Anda juga dapat menggunakan Microsoft Project 
+But you could also use Microsoft Project
+
+26
+00:01:07.000 --> 00:01:10.008
+atau salah satu dari banyak paket perangkat lunak manajemen proyek lainnya. 
+or one of many other project management software packages.
+
+27
+00:01:10.008 --> 00:01:13.009
+Dan prinsip yang akan saya tunjukkan adalah sama 
+And the principles that I'm going to show you are the same
+
+28
+00:01:13.009 --> 00:01:16.005
+dengan perangkat lunak apa pun yang Anda gunakan. 
+whatever software you use.
+
+29
+00:01:16.005 --> 00:01:18.000
+Jadi inilah cara kami melakukannya. 
+So here's how we do it.
+
+30
+00:01:18.000 --> 00:01:22.004
+Pertama, letakkan daftar tugas di sisi kiri 
+First, put a list of the tasks down the left-hand side
+
+31
+00:01:22.004 --> 00:01:25.000
+dengan jalur kritis terdaftar terlebih dahulu 
+with the critical path listed first
+
+32
+00:01:25.000 --> 00:01:28.000
+dan kemudian tugas mengambang di bawahnya. 
+and then the floating tasks below that.
+
+33
+00:01:28.000 --> 00:01:30.009
+Dan kemudian letakkan minggu di atas. 
+And then put the weeks across the top.
+
+34
+00:01:30.009 --> 00:01:32.009
+Dan Anda tahu berapa minggu yang dibutuhkan 
+And you know how many weeks are needed
+
+35
+00:01:32.009 --> 00:01:35.004
+untuk menyelesaikan panjang jalur kritis 
+from having worked out the length of the critical path
+
+36
+00:01:35.004 --> 00:01:37.008
+saat Anda membuat catatan tempel. 
+when you did your post-its.
+
+37
+00:01:37.008 --> 00:01:40.001
+Selanjutnya, Anda dapat memasukkan jalur kritis, 
+Next, you can put in the critical path,
+
+38
+00:01:40.001 --> 00:01:43.007
+yang ditarik turun secara bertahap, seperti ini. 
+which is drawn coming down in steps, like this.
+
+39
+00:01:43.007 --> 00:01:47.005
+Dan saya menggunakan contoh saya sebelumnya dengan waktu yang ditambahkan 
+And I'm using my previous example with the times added
+
+40
+00:01:47.005 --> 00:01:50.008
+dengan kontingensi dan kemudian crash. 
+with contingency and then crashed.
+
+41
+00:01:50.008 --> 00:01:53.004
+Anda dapat melihat bagaimana Bagan Gantt dengan mudah menunjukkan 
+You can see how the Gantt Chart easily shows
+
+42
+00:01:53.004 --> 00:01:56.008
+the decision I've made to overlap the permit
+keputusan yang saya buat untuk tumpang tindih dengan izin 
+
+43
+00:01:56.008 --> 00:01:58.004
+dan pembelian situs 
+and the purchase of the site
+
+44
+00:01:58.004 --> 00:02:01.000
+untuk menghemat beberapa minggu. 
+in order to save a couple of weeks.
+
+45
+00:02:01.000 --> 00:02:03.005
+Selanjutnya, kami memasukkan tugas mengambang 
+Next, we put in the floating tasks
+
+46
+00:02:03.005 --> 00:02:06.008
+satu per satu seperti yang ditunjukkan di sini. 
+one at a time as shown here.
+
+47
+00:02:06.008 --> 00:02:10.009
+Anda dapat melihat bahwa untuk setiap tugas saya telah meletakkan garis vertikal 
+You can see that for each task I've put vertical lines
+
+48
+00:02:10.009 --> 00:02:14.009
+yang menunjukkan batas gerakan atau mengambang yang diperbolehkan. 
+showing the limits of its allowable movement or float.
+
+49
+00:02:14.009 --> 00:02:19.004
+Apa yang harus terjadi setelahnya dan apa yang harus dilakukan sebelumnya? 
+What must it come after and what must it be done before?
+
+50
+00:02:19.004 --> 00:02:22.007
+Misalnya, menemukan situs harus menunggu 
+For example, finding the site must wait
+
+51
+00:02:22.007 --> 00:02:25.005
+sampai setelah kita memilih negara. 
+until after we've chosen the country.
+
+52
+00:02:25.005 --> 00:02:29.001
+Dan itu harus dilakukan sebelum kita membeli situs tersebut. 
+And it must be done before we purchase the site.
+
+53
+00:02:29.001 --> 00:02:31.002
+Jadi itulah rentangnya 
+So that's the range it goes into
+
+54
+00:02:31.002 --> 00:02:33.001
+dan saya kemudian dapat memutuskan apakah akan melakukannya 
+and I can then decide whether to do it
+
+55
+00:02:33.001 --> 00:02:37.001
+lebih awal atau lebih lambat dalam rentang itu. 
+earlier or later within that range.
+
+56
+00:02:37.001 --> 00:02:39.004
+Ada dua variasi kecil, 
+There are two slight variations,
+
+57
+00:02:39.004 --> 00:02:43.002
+keduanya telah saya tunjukkan dalam contoh saya untuk Anda. 
+both of which I've shown in my example for you.
+
+58
+00:02:43.002 --> 00:02:46.008
+Salah satunya adalah berbagi float. 
+One is the sharing of float.
+
+59
+00:02:46.008 --> 00:02:50.006
+Pengelola dan pembelian furnitur sama-sama cocok 
+The manager and the buying of furniture both fit
+
+60
+00:02:50.006 --> 00:02:53.008
+antara memilih negara dan memasang furnitur 
+between choosing the country and installing the furniture
+
+61
+00:02:53.008 --> 00:02:56.005
+sehingga mereka berbagi ruang itu. 
+so they share that space.
+
+62
+00:02:56.005 --> 00:03:01.000
+Yang lainnya adalah floaters yang bergantung pada floaters lainnya. 
+The other is floaters that depend on other floaters.
+
+63
+00:03:01.000 --> 00:03:04.001
+Jadi staf menggantung manajer, 
+So the staff are hanging off the manager,
+
+64
+00:03:04.001 --> 00:03:07.002
+yang merupakan tugas bergerak, atau mengambang. 
+who is a movable, or floating, task.
+
+65
+00:03:07.002 --> 00:03:09.001
+Ini tidak sesulit kedengarannya. 
+It's not as difficult as it sounds.
+
+66
+00:03:09.001 --> 00:03:10.007
+Anda cukup menambahkannya dengan 
+You just add them in with
+
+67
+00:03:10.007 --> 00:03:14.004
+vertikal yang keluar dari tugas sebelumnya. 
+the verticals coming off the previous tasks.
+
+68
+00:03:14.004 --> 00:03:17.001
+Setelah Anda memahami kedua variasi ini, 
+Once you understand these two variations,
+
+69
+00:03:17.001 --> 00:03:19.003
+Anda sekarang dapat membuat bagan Gantt apa pun. 
+you can now make any Gantt chart.
+
+70
+00:03:19.003 --> 00:03:22.004
+Anda bisa membuat bagan Gantt terbesar di dunia. 
+You could make the biggest Gantt chart in the world.
+
+71
+00:03:22.004 --> 00:03:25.008
+Cukup gunakan blok penyusun ini untuk terus menambahkan tugas 
+Just use these building blocks to keep adding tasks
+
+72
+00:03:25.008 --> 00:03:27.009
+sampai Anda mendapatkan semuanya. 
+until you've got them all.
+
+73
+00:03:27.009 --> 00:03:30.004
+Karena semuanya berada di luar jalur kritis, 
+Since everything hangs off the critical path,
+
+74
+00:03:30.004 --> 00:03:33.008
+Anda dapat melihat bahwa Anda harus memiliki rencana catatan tempel 
+you could see that you must have the post-it note plan
+
+75
+00:03:33.008 --> 00:03:35.009
+sebelum kita dapat menghasilkan bagan Gantt 
+before we can produce the Gantt chart
+
+76
+00:03:35.009 --> 00:03:37.006
+karena itulah yang memberi tahu kita 
+because that's what tells us
+
+77
+00:03:37.006 --> 00:03:41.000
+tugas mana yang berada di jalur kritis. 
+which tasks are on the critical path.
+
+78
+00:03:41.000 --> 00:03:43.000
+Selalu lakukan catatan tempel Anda terlebih dahulu, 
+Always do your post-its first,
+
+79
+00:03:43.000 --> 00:03:45.005
+lalu bagan Gantt menjadi mudah. 
+and then the Gantt chart is easy.
+
+80
+00:03:45.005 --> 00:03:47.003
+Menurut Anda, berapa lama waktu yang dibutuhkan untuk saya? 
+How long did this one take me, do you think?
+
+81
+00:03:47.003 --> 00:03:50.000
+10 menit, mungkin 20? 
+10 minutes, maybe 20?
+
+82
+00:03:50.000 --> 00:03:53.000
+Sangat mudah dan menggunakan waktu 
+It's easy and great use of time
+
+83
+00:03:53.000 --> 00:03:57.007
+karena sekarang rencana saya terlihat sangat jelas oleh semua orang.
+because now my plan is very clearly visible to everyone.
