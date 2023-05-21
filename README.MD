@@ -33,3 +33,4 @@ indonesian subtitle for linkedlin learning course https://www.linkedin.com/learn
 
 ### Crashing / Percepatan Proyek
 - Bagaimana Mempercepat Rencana Anda
+- [Kuis Bab 6](kuis/KUIS_BAB_6.MD)
