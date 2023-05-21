@@ -24,6 +24,9 @@ indonesian subtitle for linkedlin learning course https://www.linkedin.com/learn
 - Gnkn Catatan Tempel Utk Mrncnkn Urtn Tgs
 - Bagaimana Memperkirakan Durasi
 - Pentingnya Jalur Kritis Proyek Anda
+- [Kuis Bab 4](kuis/KUIS_BAB_4.MD)
+
 ### Menambahkan Kemungkinan/Kontingensi
 - Berapa Margin Keamanan yang dibutuhkan Proyek
-- Cara Menghitung dab Menambahkan Kontingensi
+- Cara Menghitung dan Menambahkan Kontingensi
+- [Kuis Bab 5](kuis/KUIS_BAB_5.MD)
