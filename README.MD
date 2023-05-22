@@ -37,3 +37,7 @@ indonesian subtitle for linkedlin learning course https://www.linkedin.com/learn
 
 ### Bagan Gantt
 - Cara Membuat Bagan Gantt
+- Alasan untuk menyukai bagan Gantt
+- Siapkan Bagan Gantt dasar di Excel
+- Tambahkan nama dan tanggal ke Gantt Anda
+- Tambahkan waktu dan uang ke Gantt Anda
