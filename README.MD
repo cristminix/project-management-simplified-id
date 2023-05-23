@@ -41,3 +41,4 @@ indonesian subtitle for linkedlin learning course https://www.linkedin.com/learn
 - Siapkan Bagan Gantt dasar di Excel
 - Tambahkan nama dan tanggal ke Gantt Anda
 - Tambahkan waktu dan uang ke Gantt Anda
+- [Kuis Bab 7](kuis/KUIS_BAB_7.MD)

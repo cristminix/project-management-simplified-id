@@ -2,1131 +2,1356 @@ WEBVTT
 
 1
 00:00:00.009 --> 00:00:04.000
-(Siapkan Bagan Gantt dasar di Excel
+(Siapkan Bagan Gantt dasar di Excel)
 - Saya paling suka Excel untuk membuat bagan Gantt saya, 
 - I like Excel best for making my Gantt charts,
 
 2
 00:00:04.000 --> 00:00:07.007
+(Siapkan Bagan Gantt dasar di Excel)
 dan saya telah menggunakannya bahkan untuk proyek senilai 20 juta pound. 
 and I've used it even for 20 million pound projects.
 
 3
 00:00:07.007 --> 00:00:11.009
+(Siapkan Bagan Gantt dasar di Excel)
 Cepat dan mudah, seperti yang akan saya tunjukkan sekarang. 
 It's quick and easy, as I'll show you now.
 
 4
 00:00:11.009 --> 00:00:14.009
+(Siapkan Bagan Gantt dasar di Excel)
 Mari kita lakukan langkah-langkah cepat pembuatan 
 Let's do a very quick walkthrough of the construction
 
 5
 00:00:14.009 --> 00:00:18.000
+(Siapkan Bagan Gantt dasar di Excel)
 bagan Gantt menggunakan Excel. 
 of a Gantt chart using Excel.
 
 6
 00:00:18.000 --> 00:00:21.005
+(Siapkan Bagan Gantt dasar di Excel)
 Saya akan menunjukkan cara menambahkan tugas, tanggal, jam, 
 I'll show you how to add tasks, dates, hours,
 
 7
 00:00:21.005 --> 00:00:25.007
+(Siapkan Bagan Gantt dasar di Excel)
 pengeluaran, sumber daya, dan tentu saja, jalur kritis. 
 expenditure, resources, and of course, the critical path.
 
 8
 00:00:25.007 --> 00:00:28.002
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi, Anda dapat membuat bagan Gantt lengkap 
 So you'll be able to create a complete Gantt chart
 
 9
 00:00:28.002 --> 00:00:34.003
+(Siapkan Bagan Gantt dasar di Excel)
 dalam lima hingga 10 menit hanya dengan menggunakan keterampilan dasar Excel. 
 in five to 10 minutes using only basic Excel skills.
 
 10
 00:00:34.003 --> 00:00:37.008
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi pertama-tama saya meletakkan tugas di sisi kiri, 
 So first I put the tasks down the left-hand side,
 
 11
 00:00:37.008 --> 00:00:43.001
+(Siapkan Bagan Gantt dasar di Excel)
 dimulai dengan tugas yang berada di jalur kritis. 
 starting with the tasks that are on the critical path.
 
 12
 00:00:43.001 --> 00:00:46.009
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi saya mulai dengan memilih negara saya 
 So I start by choosing my country
 
 13
 00:00:46.009 --> 00:00:49.001
+(Siapkan Bagan Gantt dasar di Excel)
 dan saya akan membuat kolom itu sedikit lebih lebar, 
 and I'm going to make that column a little bit wider,
 
 14
 00:00:49.001 --> 00:00:53.000
+(Siapkan Bagan Gantt dasar di Excel)
 sehingga semuanya bisa masuk. 
 so that it can all fit in.
 
 15
 00:00:53.000 --> 00:00:54.003
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi itulah jalur kritis, 
 So that's the critical path,
 
 16
 00:00:54.003 --> 00:00:58.006
+(Siapkan Bagan Gantt dasar di Excel)
 dan sekarang saya akan memasukkan tugas mengambang. 
 and now I'm going to put in the floating tasks.
 
 17
 00:00:58.006 --> 00:01:02.000
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi saya punya situs Temuan. 
 So I've got Find site.
 
 18
 00:01:02.000 --> 00:01:03.001
+(Siapkan Bagan Gantt dasar di Excel)
 Saya meninggalkan beberapa celah, 
 I'm leaving a couple of gaps,
 
 19
 00:01:03.001 --> 00:01:06.002
+(Siapkan Bagan Gantt dasar di Excel)
 Anda akan tahu alasannya sebentar lagi. 
 you'll see why in a minute.
 
 20
 00:01:06.002 --> 00:01:09.004
+(Siapkan Bagan Gantt dasar di Excel)
 Kemudian di atas kita akan menempatkan angka minggu, 
 Then across the top we're going to put the week numbers,
 
 21
 00:01:09.004 --> 00:01:10.006
+(Siapkan Bagan Gantt dasar di Excel)
 kita akan menempatkan tanggal nanti, 
 we'll put dates on later,
 
 22
 00:01:10.006 --> 00:01:14.001
+(Siapkan Bagan Gantt dasar di Excel)
 tapi kita akan mulai dengan angka minggu. 
 but we'll start with the week numbers.
 
 23
 00:01:14.001 --> 00:01:17.004
+(Siapkan Bagan Gantt dasar di Excel)
 Dan saya tahu dari jalur kritis saya 
 And I know from my critical path
 
 24
 00:01:17.004 --> 00:01:19.009
+(Siapkan Bagan Gantt dasar di Excel)
 bahwa itu adalah 41 minggu, 
 that it's 41 weeks long,
 
 25
 00:01:19.009 --> 00:01:22.009
+(Siapkan Bagan Gantt dasar di Excel)
 jadi saya dapat mengambil hanya dua 
 so I can take just these two
 
 26
 00:01:22.009 --> 00:01:27.001
+(Siapkan Bagan Gantt dasar di Excel)
 ini dan kemudian saya dapat menyalinnya hingga 41, 
 and then I can just copy that all the way out to 41,
 
 27
 00:01:27.001 --> 00:01:28.009
+(Siapkan Bagan Gantt dasar di Excel)
 seperti ini. 
 like this.
 
 28
 00:01:28.009 --> 00:01:30.005
+(Siapkan Bagan Gantt dasar di Excel)
 Sekarang saya jelas telah keluar dari akhir halaman, 
 Now I've obviously gone off the end of the page,
 
 29
 00:01:30.005 --> 00:01:33.001
+(Siapkan Bagan Gantt dasar di Excel)
 tapi tidak apa-apa, karena saya akan memilih kolom ini, 
 but that's OK, 'cause I'm going to select this column,
 
 30
 00:01:33.001 --> 00:01:36.001
+(Siapkan Bagan Gantt dasar di Excel)
 dan kemudian saya akan kembali ke seberang, 
 and then I'm going to go all the way back across,
 
 31
 00:01:36.001 --> 00:01:38.006
+(Siapkan Bagan Gantt dasar di Excel)
 dan saya akan menahan tombol Shift, klik B, dan j
 and I'm going to hold the Shift key down, click on B,
 
 32
 00:01:38.006 --> 00:01:40.006
+(Siapkan Bagan Gantt dasar di Excel)
 jika saya menarik yang ini , 
 and if I pull in this one
 
 33
 00:01:40.006 --> 00:01:42.004
+(Siapkan Bagan Gantt dasar di Excel)
 mereka semua akan masuk dengan jumlah yang sama. 
 they'll all come in by the same amount.
 
 34
 00:01:42.004 --> 00:01:45.004
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi saya bisa menariknya sampai pas 
 So I can pull it in 'til they fit on
 
 35
 00:01:45.004 --> 00:01:46.008
+(Siapkan Bagan Gantt dasar di Excel)
 dan saya juga bisa memusatkannya, 
 and I can also center them,
 
 36
 00:01:46.008 --> 00:01:48.006
+(Siapkan Bagan Gantt dasar di Excel)
 karena saya suka memusatkannya seperti itu, 
 because I like to have it centered like that,
 
 37
 00:01:48.006 --> 00:01:50.008
+(Siapkan Bagan Gantt dasar di Excel)
 bagus dan rapi. 
 it's nice and neat.
 
 38
 00:01:50.008 --> 00:01:52.003
+(Siapkan Bagan Gantt dasar di Excel)
 Hal berikutnya yang akan saya lakukan 
 Next thing I'm going to do
 
 39
 00:01:52.003 --> 00:01:54.008
+(Siapkan Bagan Gantt dasar di Excel)
 adalah saya akan menggunakan Pemformatan Bersyarat, 
 is I'm going to use Conditional Formatting,
 
 40
 00:01:54.008 --> 00:01:57.003
+(Siapkan Bagan Gantt dasar di Excel)
 dan ini akan membuat bilah saya berwarna secara otomatis. 
 and this is going to make my bars color in automatically.
 
 41
 00:01:57.003 --> 00:01:59.002
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi saya akan memilih area ini, 
 So I'm going to select this area,
 
 42
 00:01:59.002 --> 00:02:01.003
+(Siapkan Bagan Gantt dasar di Excel)
 saya akan pergi ke Pemformatan Bersyarat, 
 I'm going to go to Conditional Formatting,
 
 43
 00:02:01.003 --> 00:02:04.000
+(Siapkan Bagan Gantt dasar di Excel)
 dan di bagian atas ada Sorotan Aturan Sel, 
 and just along the top it's Highlight Cells Rules,
 
 44
 00:02:04.000 --> 00:02:05.005
+(Siapkan Bagan Gantt dasar di Excel)
 Lebih Besar Dari. 
 Greater Than.
 
 45
 00:02:05.005 --> 00:02:09.006
+(Siapkan Bagan Gantt dasar di Excel)
 Dan saya akan mengatakan sel yang lebih besar dari nol, 
 And I'm going to say cells that are greater than zero,
 
 46
 00:02:09.006 --> 00:02:13.001
+(Siapkan Bagan Gantt dasar di Excel)
 merah akan baik-baik saja, jadi saya hanya akan mengatakan OK untuk itu. 
 red will be fine, so I'm just going to say OK to that.
 
 47
 00:02:13.001 --> 00:02:16.002
+(Siapkan Bagan Gantt dasar di Excel)
 Dan kemudian tugas mengambang di sini, 
 And then the floating tasks down here,
 
 48
 00:02:16.002 --> 00:02:18.008
+(Siapkan Bagan Gantt dasar di Excel)
 saya akan melakukan hal yang sama lagi, Pemformatan Bersyarat, 
 I'm going to do the same again, Conditional Formatting,
 
 49
 00:02:18.008 --> 00:02:22.007
+(Siapkan Bagan Gantt dasar di Excel)
 Sel, Lebih Besar Dari Nol. 
 Cells, Greater Than zero.
 
 50
 00:02:22.007 --> 00:02:26.003
+(Siapkan Bagan Gantt dasar di Excel)
 Dan saya akan memilih warna hijau, 
 And I'm going to choose green,
 
 51
 00:02:26.003 --> 00:02:31.009
+(Siapkan Bagan Gantt dasar di Excel)
 sehingga kita dapat melihat bahwa tugas mengambang memiliki warna yang berbeda. 
 so we can see that the floating tasks are a different color.
 
 52
 00:02:31.009 --> 00:02:34.009
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi sekarang saya akan meletakkan di jeruji jalur kritis saya, 
 So now I'm going to put in the bars of my critical path,
 
 53
 00:02:34.009 --> 00:02:36.006
+(Siapkan Bagan Gantt dasar di Excel)
 mulai dari sini. 
 starting here.
 
 54
 00:02:36.006 --> 00:02:40.004
+(Siapkan Bagan Gantt dasar di Excel)
 Dan saya hanya akan menambahkan satu untuk mewarnainya. 
 And I'm just going to put in ones to make it color in.
 
 55
 00:02:40.004 --> 00:02:43.002
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi Anda dapat melihat bahwa tugas pertama saya, memilih negara, 
 So you can see that my first task, choosing the country,
 
 56
 00:02:43.002 --> 00:02:45.004
+(Siapkan Bagan Gantt dasar di Excel)
 berlangsung selama lima minggu. 
 was five weeks long.
 
 57
 00:02:45.004 --> 00:02:47.009
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi saya hanya memasukkannya seperti itu. 
 So I'm just putting it in like that.
 
 58
 00:02:47.009 --> 00:02:52.002
+(Siapkan Bagan Gantt dasar di Excel)
 Kemudian tugas saya selanjutnya, izin, adalah 13. 
 Then my next task, the permit, was 13.
 
 59
 00:02:52.002 --> 00:02:54.007
+(Siapkan Bagan Gantt dasar di Excel)
 Kemudian tugas saya berikutnya, membeli situs, 
 Then my next task, purchasing the site,
 
 60
 00:02:54.007 --> 00:02:58.002
+(Siapkan Bagan Gantt dasar di Excel)
 berdurasi 12 minggu, 
 has a length of 12 weeks,
 
 61
 00:02:58.002 --> 00:03:01.006
+(Siapkan Bagan Gantt dasar di Excel)
 dan saya telah memutuskan untuk menumpuknya beberapa minggu 
 and I've decided to overlap these by a couple of weeks
 
 62
 00:03:01.006 --> 00:03:03.003
+(Siapkan Bagan Gantt dasar di Excel)
 untuk menghemat waktu. 
 in order to save time.
 
 63
 00:03:03.003 --> 00:03:04.007
+(Siapkan Bagan Gantt dasar di Excel)
 Dan Anda dapat melihat bahwa bagan Gantt 
 And you can see that the Gantt chart
 
 64
 00:03:04.007 --> 00:03:07.000
+(Siapkan Bagan Gantt dasar di Excel)
 sangat bagus untuk ini dan Excel sangat bagus, 
 is really great for this and Excel is really great,
 
 65
 00:03:07.000 --> 00:03:10.006
+(Siapkan Bagan Gantt dasar di Excel)
 karena saya dapat memotong dan menempelkannya 
 because I can just cut and paste this
 
 66
 00:03:10.006 --> 00:03:12.005
+(Siapkan Bagan Gantt dasar di Excel)
 kembali dalam beberapa minggu 
 back by a couple of weeks
 
 67
 00:03:12.005 --> 00:03:13.009
+(Siapkan Bagan Gantt dasar di Excel)
 jika saya ingin menunjukkan tumpang tindih. 
 if I want to show an overlap.
 
 68
 00:03:13.009 --> 00:03:15.003
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi saya telah memasukkannya untuk Anda 
 So I've put that in for you
 
 69
 00:03:15.003 --> 00:03:17.006
+(Siapkan Bagan Gantt dasar di Excel)
 hanya untuk menunjukkan kepada Anda seperti apa tumpang tindih 
 just to show you what an overlap looks like
 
 70
 00:03:17.006 --> 00:03:20.007
+(Siapkan Bagan Gantt dasar di Excel)
 pada rencana proyek, itu sangat mudah. 
 on a project plan, it's really easy.
 
 71
 00:03:20.007 --> 00:03:26.003
+(Siapkan Bagan Gantt dasar di Excel)
 Kemudian memodifikasi bangunan adalah 10 minggu lagi. 
 Then modifying the building is another 10 weeks.
 
 72
 00:03:26.003 --> 00:03:28.008
+(Siapkan Bagan Gantt dasar di Excel)
 Dan terakhir, memasang furnitur 
 And then finally, installing the furniture
 
 73
 00:03:28.008 --> 00:03:32.008
+(Siapkan Bagan Gantt dasar di Excel)
 hanya akan memakan waktu tiga minggu. 
 is just going to take me three weeks.
 
 74
 00:03:32.008 --> 00:03:36.004
+(Siapkan Bagan Gantt dasar di Excel)
 Dan itu menambah rencana 41 minggu yang saya miliki. 
 And that adds up to my 41 week plan that I've got.
 
 75
 00:03:36.004 --> 00:03:41.007
+(Siapkan Bagan Gantt dasar di Excel)
 Sekarang item terakhir di jalur kritis saya terbuka 
 Now the last item on my critical path is open
 
 76
 00:03:41.007 --> 00:03:43.009
+(Siapkan Bagan Gantt dasar di Excel)
 dan itu adalah peristiwa daripada aktivitas, 
 and that's an event rather than activity,
 
 77
 00:03:43.009 --> 00:03:45.005
+(Siapkan Bagan Gantt dasar di Excel)
 tidak memiliki durasi. 
 it has no duration.
 
 78
 00:03:45.005 --> 00:03:47.000
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi bagaimana cara menampilkan acara? 
 So how do I show an event?
 
 79
 00:03:47.000 --> 00:03:49.002
+(Siapkan Bagan Gantt dasar di Excel)
 Dan jawabannya adalah, karena tidak ada durasi, 
 And the answer is, because it's not got no duration,
 
 80
 00:03:49.002 --> 00:03:50.001
+(Siapkan Bagan Gantt dasar di Excel)
 itu hanya garis, 
 it's just a line,
 
 81
 00:03:50.001 --> 00:03:53.009
+(Siapkan Bagan Gantt dasar di Excel)
 jadi saya akan menggunakan alat Perbatasan, seperti itu.
 so I'm going to use the Border tool, like that.
 
 82
 00:03:53.009 --> 00:03:55.006
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi sebenarnya hanya itu, 
 So really it's just that,
 
 83
 00:03:55.006 --> 00:03:57.000
+(Siapkan Bagan Gantt dasar di Excel)
 tetapi Anda hampir tidak dapat melihatnya, 
 but you can hardly see it,
 
 84
 00:03:57.000 --> 00:03:59.008
+(Siapkan Bagan Gantt dasar di Excel)
 jadi yang biasanya kami lakukan adalah meletakkan garisnya 
 so what we normally do is we normally put the line
 
 85
 00:03:59.008 --> 00:04:02.004
+(Siapkan Bagan Gantt dasar di Excel)
 ke bawah, seperti ini. 
 all the way down, like this.
 
 86
 00:04:02.004 --> 00:04:05.005
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi garis itu seperti garis akhir proyek, 
 So that line is like the finish line of the project,
 
 87
 00:04:05.005 --> 00:04:09.002
+(Siapkan Bagan Gantt dasar di Excel)
 tapi kami ingin menunjukkan bahwa garis itu adalah milik Open. 
 but we want to show that that line belongs to Open.
 
 88
 00:04:09.002 --> 00:04:11.003
+(Siapkan Bagan Gantt dasar di Excel)
 Dan cara kami melakukannya adalah dengan menyisipkan 
 And the way we do that is we insert
 
 89
 00:04:11.003 --> 00:04:14.002
+(Siapkan Bagan Gantt dasar di Excel)
 berlian kecil di garis. 
 a little diamond on the line.
 
 90
 00:04:14.002 --> 00:04:18.001
+(Siapkan Bagan Gantt dasar di Excel)
 jadi untuk memasukkan berlian saya hanya pergi ke Sisipkan, 
 So to insert the diamond I just go to Insert,
 
 91
 00:04:18.001 --> 00:04:20.007
+(Siapkan Bagan Gantt dasar di Excel)
 Ilustrasi, Bentuk. 
 Illustrations, Shapes.
 
 92
 00:04:20.007 --> 00:04:24.002
+(Siapkan Bagan Gantt dasar di Excel)
 Dan saya hanya mengambil berlian dari bawah sini 
 And I just pick out the diamond from down here
 
 93
 00:04:24.002 --> 00:04:27.003
+(Siapkan Bagan Gantt dasar di Excel)
 dan saya menggambar berlian kecil seperti itu. 
 and I just draw on a little diamond like that.
 
 94
 00:04:27.003 --> 00:04:32.000
+(Siapkan Bagan Gantt dasar di Excel)
 Dan saya hanya menggunakan tombol kursor untuk mengaturnya dengan baik. 
 And I just use the cursor keys to get it nicely lined up.
 
 95
 00:04:32.000 --> 00:04:33.004
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi Anda dapat melihat bahwa wajik artinya, 
 So you can see that diamond means,
 
 96
 00:04:33.004 --> 00:04:35.004
+(Siapkan Bagan Gantt dasar di Excel)
 jika Anda memikirkan garis apa ini, 
 if you're thinking what is this line,
 
 97
 00:04:35.004 --> 00:04:36.007
+(Siapkan Bagan Gantt dasar di Excel)
 artinya Buka. 
 it means Open.
 
 98
 00:04:36.007 --> 00:04:38.004
+(Siapkan Bagan Gantt dasar di Excel)
 Atau jika Anda berpikir kapan kita buka? 
 Or if you're thinking when do we open?
 
 99
 00:04:38.004 --> 00:04:41.007
+(Siapkan Bagan Gantt dasar di Excel)
 Anda bisa menyeberang sampai Anda mendapatkan berlian. 
 You can just go across until you get to the diamond.
 
 100
 00:04:41.007 --> 00:04:45.003
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi begitulah cara Anda menampilkan acara di bagan Gantt menggunakan Excel. 
 So that's how you show events on an Gantt chart using Excel.
 
 101
 00:04:45.003 --> 00:04:47.005
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi itulah jalur kritis saya selesai. 
 So that's my critical path done.
 
 102
 00:04:47.005 --> 00:04:50.004
+(Siapkan Bagan Gantt dasar di Excel)
 Saya sekarang siap untuk memasukkan tugas mengambang. 
 I'm now ready to insert the floating tasks.
 
 103
 00:04:50.004 --> 00:04:53.008
+(Siapkan Bagan Gantt dasar di Excel)
 Dan tugas mengambang pertama saya adalah Temukan situsnya. 
 And my first floating task is Find the site.
 
 104
 00:04:53.008 --> 00:04:56.001
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi kami kembali ke diagram catatan tempel kami 
 So we go back to our Post-It note diagram
 
 105
 00:04:56.001 --> 00:04:57.007
+(Siapkan Bagan Gantt dasar di Excel)
 dan kami melihat Temukan situsnya, 
 and we look at Find the site,
 
 106
 00:04:57.007 --> 00:05:00.009
+(Siapkan Bagan Gantt dasar di Excel)
 apa yang datang setelah itu dan apa yang datang sebelumnya? 
 what does it come after and what does it come before?
 
 107
 00:05:00.009 --> 00:05:02.005
+(Siapkan Bagan Gantt dasar di Excel)
 Selalu tanyakan dua pertanyaan itu. 
 Always ask those two questions.
 
 108
 00:05:02.005 --> 00:05:04.002
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi apa yang terjadi setelahnya?
 So what does it come after?
 
 109
 00:05:04.002 --> 00:05:05.005
+(Siapkan Bagan Gantt dasar di Excel)
 Dan itu datang setelah negara. 
 And it comes after the country.
 
 110
 00:05:05.005 --> 00:05:08.003
+(Siapkan Bagan Gantt dasar di Excel)
 Kami tidak dapat menemukan situsnya sampai kami memilih negaranya. 
 We can't find the site 'til we've chosen the country.
 
 111
 00:05:08.003 --> 00:05:10.005
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi saya akan memberi garis di sini 
 So I'm going to put a line down here
 
 112
 00:05:10.005 --> 00:05:13.004
+(Siapkan Bagan Gantt dasar di Excel)
 untuk menunjukkan bahwa itu harus datang setelah titik itu, 
 to show that it must come after that point,
 
 113
 00:05:13.004 --> 00:05:14.006
+(Siapkan Bagan Gantt dasar di Excel)
 seperti itu. 
 like that.
 
 114
 00:05:14.006 --> 00:05:15.008
+(Siapkan Bagan Gantt dasar di Excel)
 Dan kemudian menemukan situs tersebut 
 And then finding the site
 
 115
 00:05:15.008 --> 00:05:18.004
+(Siapkan Bagan Gantt dasar di Excel)
 harus dilakukan sebelum kita membeli situs tersebut, 
 must be done before we buy the site,
 
 116
 00:05:18.004 --> 00:05:19.004
+(Siapkan Bagan Gantt dasar di Excel)
 yaitu bilah ini ada di sini. 
 which is this bar here.
 
 117
 00:05:19.004 --> 00:05:22.005
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi itu harus dilakukan sebelum titik ini. 
 So it must be done before this point.
 
 118
 00:05:22.005 --> 00:05:24.005
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi saya akan meletakkan garis lain di sana. 
 So I'm going to put another line there.
 
 119
 00:05:24.005 --> 00:05:26.001
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi itu kendala saya, 
 So those are my constraints,
 
 120
 00:05:26.001 --> 00:05:29.009
+(Siapkan Bagan Gantt dasar di Excel)
 menemukan situs harus ada di celah itu di suatu tempat. 
 finding the site has to be in that gap somewhere.
 
 121
 00:05:29.009 --> 00:05:31.002
+(Siapkan Bagan Gantt dasar di Excel)
 Dan durasinya lima, 
 And it's got a length of five,
 
 122
 00:05:31.002 --> 00:05:32.008
+(Siapkan Bagan Gantt dasar di Excel)
 tugas lima minggu. 
 it's a five week task.
 
 123
 00:05:32.008 --> 00:05:36.006
+(Siapkan Bagan Gantt dasar di Excel)
 Saya hanya akan meletakkannya di tengah untuk saat ini, 
 I'm just going to put it in the middle for now,
 
 124
 00:05:36.006 --> 00:05:38.007
+(Siapkan Bagan Gantt dasar di Excel)
 tetapi saya mungkin memutuskan untuk melakukannya lebih awal, 
 but I might decide to do it earlier,
 
 125
 00:05:38.007 --> 00:05:41.006
+(Siapkan Bagan Gantt dasar di Excel)
 saya mungkin memutuskan untuk melakukannya nanti, saya dapat memilih. 
 I might decide to do it later, I can choose.
 
 126
 00:05:41.006 --> 00:05:44.000
+(Siapkan Bagan Gantt dasar di Excel)
 Jika saya melakukannya terlambat, itu tidak memberi saya margin keamanan apa pun 
 If I do it too late it doesn't give me any safety margin
 
 127
 00:05:44.000 --> 00:05:46.002
+(Siapkan Bagan Gantt dasar di Excel)
 jika akhirnya memakan waktu lebih dari lima minggu, 
 if it ends up taking more than five weeks,
 
 128
 00:05:46.002 --> 00:05:48.006
+(Siapkan Bagan Gantt dasar di Excel)
 jadi saya ingin memiliki sedikit margin keamanan di sini. 
 so I do want to have a bit of a safety margin here.
 
 129
 00:05:48.006 --> 00:05:50.000
+(Siapkan Bagan Gantt dasar di Excel)
 Tetapi jika saya melakukannya terlalu dini 
 But if I do it too early
 
 130
 00:05:50.000 --> 00:05:52.009
+(Siapkan Bagan Gantt dasar di Excel)
 maka saya harus menunggu dengan cemas selama empat minggu 
 then I've got to wait anxiously for four weeks
 
 131
 00:05:52.009 --> 00:05:54.007
+(Siapkan Bagan Gantt dasar di Excel)
 jika terjadi kesalahan 
 in case something goes wrong
 
 132
 00:05:54.007 --> 00:05:56.008
+(Siapkan Bagan Gantt dasar di Excel)
 sebelum saya dapat membelinya. 
 before I'm able to buy it.
 
 133
 00:05:56.008 --> 00:05:59.002
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi bagaimana jika saya menemukannya dan kemudian orang lain membelinya 
 So what if I find it and then somebody else buys it
 
 134
 00:05:59.002 --> 00:06:00.003
+(Siapkan Bagan Gantt dasar di Excel)
 sebelum saya sempat membelinya? 
 before I get a chance to buy it?
 
 135
 00:06:00.003 --> 00:06:03.001
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi saya tidak ingin meninggalkan celah besar di sana. 
 So I don't want to leave a huge gap there.
 
 136
 00:06:03.001 --> 00:06:05.002
+(Siapkan Bagan Gantt dasar di Excel)
 Tapi saya hanya akan meletakkannya di tengah untuk saat ini. 
 But I'll just put it in the middle for now.
 
 137
 00:06:05.002 --> 00:06:07.007
+(Siapkan Bagan Gantt dasar di Excel)
 Dan kemudian saya akan meletakkan panah di kedua sisi 
 And then I'm going to put arrows either side
 
 138
 00:06:07.007 --> 00:06:10.000
+(Siapkan Bagan Gantt dasar di Excel)
 untuk menunjukkan bahwa itu adalah tugas mengambang. 
 to show that it is a floating task.
 
 139
 00:06:10.000 --> 00:06:15.004
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi saya kembali ke Sisipkan, Ilustrasi, Bentuk, 
 So I go back into Insert, Illustrations, Shapes,
 
 140
 00:06:15.004 --> 00:06:20.009
+(Siapkan Bagan Gantt dasar di Excel)
 dan saya hanya memilih panah di sana, seperti itu. 
 and I just pick an arrow there, like that.
 
 141
 00:06:20.009 --> 00:06:23.002
+(Siapkan Bagan Gantt dasar di Excel)
 Dan kemudian saya mengambil anak panah itu lagi 
 And then I get the arrow again
 
 142
 00:06:23.002 --> 00:06:27.000
+(Siapkan Bagan Gantt dasar di Excel)
 dan saya meletakkannya di sisi yang lain, seperti itu. 
 and I put it on the other side, like that.
 
 143
 00:06:27.000 --> 00:06:29.006
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi itu hanya menunjukkan sekarang bahwa ini adalah tugas lima minggu 
 So that's just showing now that it's a five week task
 
 144
 00:06:29.006 --> 00:06:31.001
+(Siapkan Bagan Gantt dasar di Excel)
 dan berkisar 
 and it's floating in that range
 
 145
 00:06:31.001 --> 00:06:33.004
+(Siapkan Bagan Gantt dasar di Excel)
 antara minggu enam dan 16. 
 between weeks six and 16.
 
 146
 00:06:33.004 --> 00:06:34.007
+(Siapkan Bagan Gantt dasar di Excel)
 Kita bisa melakukannya kapan pun kita suka, 
 We can do it whenever we like,
 
 147
 00:06:34.007 --> 00:06:36.008
+(Siapkan Bagan Gantt dasar di Excel)
 asalkan selesai dan selesai 
 as long as it's done and finished
 
 148
 00:06:36.008 --> 00:06:38.002
+(Siapkan Bagan Gantt dasar di Excel)
 sebelum akhir minggu 16, 
 before the end of week 16,
 
 149
 00:06:38.002 --> 00:06:42.006
+(Siapkan Bagan Gantt dasar di Excel)
 karena di minggu 17 kita harus melanjutkan dengan membeli situs. 
 because in week 17 we have to get on with buying the site.
 
 150
 00:06:42.006 --> 00:06:46.003
+(Siapkan Bagan Gantt dasar di Excel)
 Sekarang tugas mengambang berikutnya yang akan saya berikan adalah manajer, 
 Now the next floating task I'm going to put in is the manager,
 
 151
 00:06:46.003 --> 00:06:53.005
+(Siapkan Bagan Gantt dasar di Excel)
 jadi manajer juga muncul setelah memilih negara. 
 so the manager comes after choosing the country as well.
 
 152
 00:06:53.005 --> 00:06:55.007
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi saya hanya akan menempatkan perbatasan itu di sana. 
 So I'm just going to put that border there.
 
 153
 00:06:55.007 --> 00:06:59.004
+(Siapkan Bagan Gantt dasar di Excel)
 Dan manajer harus selesai sebelum kita membeli furnitur. 
 And the manager has to be done before we buy the furniture.
 
 154
 00:06:59.004 --> 00:07:01.009
+(Siapkan Bagan Gantt dasar di Excel)
 Perabotannya belum ada di sini, 
 Now the furniture isn't on here yet,
 
 155
 00:07:01.009 --> 00:07:04.003
+(Siapkan Bagan Gantt dasar di Excel)
 jadi kita benar-benar harus memasangnya sebagai rangkap. 
 so we're actually going to have to put these in as a double.
 
 156
 00:07:04.003 --> 00:07:06.008
+(Siapkan Bagan Gantt dasar di Excel)
 Dan yang kita tahu manager dan furniture 
 And what we know is the manager and the furniture
 
 157
 00:07:06.008 --> 00:07:10.002
+(Siapkan Bagan Gantt dasar di Excel)
 harus sama-sama beres sebelum kita pasang furniturenya 
 must both be done before we install the furniture,
 
 158
 00:07:10.002 --> 00:07:12.007
+(Siapkan Bagan Gantt dasar di Excel)
 yaitu bar ini disini. 
 which is this bar here.
 
 159
 00:07:12.007 --> 00:07:18.006
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi keduanya harus dilakukan sebelum titik ini. 
 So they must both be done before this point.
 
 160
 00:07:18.006 --> 00:07:21.003
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi di suatu tempat antara sini dan sini 
 So somewhere between here and here
 
 161
 00:07:21.003 --> 00:07:24.002
+(Siapkan Bagan Gantt dasar di Excel)
 kita akan menyewa manajer dan membeli furnitur, 
 we're going to hire the manager and buy the furniture,
 
 162
 00:07:24.002 --> 00:07:26.009
+(Siapkan Bagan Gantt dasar di Excel)
 dan mereka enam dan dua. 
 and they are a six and a two.
 
 163
 00:07:26.009 --> 00:07:29.002
+(Siapkan Bagan Gantt dasar di Excel)
 Sekarang saya pikir saya akan mendapatkan manajer yang baik dan lebih awal, 
 Now I think I'm going to get the manager nice and early,
 
 164
 00:07:29.002 --> 00:07:30.006
+(Siapkan Bagan Gantt dasar di Excel)
 karena dia dapat membantu saya 
 because he or she can help me
 
 165
 00:07:30.006 --> 00:07:33.009
+(Siapkan Bagan Gantt dasar di Excel)
 dengan semua hal lain yang saya lakukan. 
 with all the other stuff I'm doing.
 
 166
 00:07:33.009 --> 00:07:36.005
+(Siapkan Bagan Gantt dasar di Excel)
 Tapi saya akan membeli furnitur agak terlambat, 
 But I'm going to buy the furniture quite late,
 
 167
 00:07:36.005 --> 00:07:38.001
+(Siapkan Bagan Gantt dasar di Excel)
 karena saya tidak ingin perabotannya tergeletak begitu saja. 
 'cause I don't want the furniture sitting around.
 
 168
 00:07:38.001 --> 00:07:39.003
+(Siapkan Bagan Gantt dasar di Excel)
 ditmbah itu akan menghabiskan uang saya, 
 Plus it's going to cost me money,
 
 169
 00:07:39.003 --> 00:07:44.000
+(Siapkan Bagan Gantt dasar di Excel)
 jadi saya lebih suka melakukannya nanti daripada sebelumnya. 
 so I'd rather do that later rather than earlier I think.
 
 170
 00:07:44.000 --> 00:07:47.004
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi mereka yang ada di sana dan mereka berbagi float itu. 
 So those are in there and they're sharing that float.
 
 171
 00:07:47.004 --> 00:07:49.006
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi saya akan memasukkan panah seperti yang saya lakukan sebelumnya, 
 So I'm going to put the arrows in as I did before,
 
 172
 00:07:49.006 --> 00:07:55.002
+(Siapkan Bagan Gantt dasar di Excel)
 jadi saya akan pergi Sisipkan, Ilustrasi, Bentuk. 
 so I'm going to go Insert, Illustrations, Shapes.
 
 173
 00:07:55.002 --> 00:07:56.006
+(Siapkan Bagan Gantt dasar di Excel)
 Saya hanya akan meletakkan satu panah di sini, 
 I'm just going to put one arrow here,
 
 174
 00:07:56.006 --> 00:07:58.009
+(Siapkan Bagan Gantt dasar di Excel)
 yang menunjukkan bahwa saya bisa mendapatkan manajer 
 which shows that I could get the manager
 
 175
 00:07:58.009 --> 00:08:02.002
+(Siapkan Bagan Gantt dasar di Excel)
 seminggu lebih awal jika saya mau. 
 a week earlier if I wanted.
 
 176
 00:08:02.002 --> 00:08:03.009
+(Siapkan Bagan Gantt dasar di Excel)
 Saya sangat suka selalu memiliki ruang seminggu 
 I quite like to always have a week space
 
 177
 00:08:03.009 --> 00:08:05.005
+(Siapkan Bagan Gantt dasar di Excel)
 sebelum saya memulai sesuatu, 
 before I start things,
 
 178
 00:08:05.005 --> 00:08:07.000
+(Siapkan Bagan Gantt dasar di Excel)
 hanya karena waktu serah terima. 
 just because the handover time.
 
 179
 00:08:07.000 --> 00:08:07.009
+(Siapkan Bagan Gantt dasar di Excel)
 Jika memilih negara 
 If choosing the country
 
 180
 00:08:07.009 --> 00:08:09.009
+(Siapkan Bagan Gantt dasar di Excel)
 membutuhkan waktu beberapa hari lebih lama dari yang saya kira, 
 takes a few days longer than I thought
 
 181
 00:08:09.009 --> 00:08:11.005
+(Siapkan Bagan Gantt dasar di Excel)
 saya tidak ingin hal itu memengaruhi tugas ini, 
 I don't want it to affect this task,
 
 182
 00:08:11.005 --> 00:08:14.002
+(Siapkan Bagan Gantt dasar di Excel)
 jadi saya ingin memiliki sedikit penyangga keamanan. 
 so I like to have a little safety buffer.
 
 183
 00:08:14.002 --> 00:08:18.002
+(Siapkan Bagan Gantt dasar di Excel)
 Dan kemudian saya akan meletakkan panah setelah membeli furnitur, 
 And then I'm going to put an arrow after buying the furniture,
 
 184
 00:08:18.002 --> 00:08:20.000
+(Siapkan Bagan Gantt dasar di Excel)
 untuk menunjukkan bahwa jika perlu terlambat 
 to show that if it needs to go late
 
 185
 00:08:20.000 --> 00:08:23.006
+(Siapkan Bagan Gantt dasar di Excel)
 satu atau dua atau tiga minggu itu bisa. 
 by one or two or three weeks it can.
 
 186
 00:08:23.006 --> 00:08:27.003
+(Siapkan Bagan Gantt dasar di Excel)
 Dan kemudian saya akan menghubungkannya dengan ini, 
 And then I'm going to connect them with this,
 
 187
 00:08:27.003 --> 00:08:30.005
+(Siapkan Bagan Gantt dasar di Excel)
 hanya bentuk penghubung kecil, 
 just a little connecting shape,
 
 188
 00:08:30.005 --> 00:08:32.008
+(Siapkan Bagan Gantt dasar di Excel)
 untuk menunjukkan bahwa setelah manajer 
 to show that after the manager
 
 189
 00:08:32.008 --> 00:08:34.004
+(Siapkan Bagan Gantt dasar di Excel)
 saya kemudian dapat membeli furnitur, 
 I can then buy the furniture,
 
 190
 00:08:34.004 --> 00:08:38.001
+(Siapkan Bagan Gantt dasar di Excel)
 karena manajer akan melakukannya untuk saya. 
 because the manager's going to do that for me.
 
 191
 00:08:38.001 --> 00:08:40.006
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi kedua floater itu berbagi float itu. 
 So those two floaters are sharing that float.
 
 192
 00:08:40.006 --> 00:08:41.004
+(Siapkan Bagan Gantt dasar di Excel)
 Itu bukan masalah, 
 It's not a problem,
 
 193
 00:08:41.004 --> 00:08:44.004
+(Siapkan Bagan Gantt dasar di Excel)
 mereka punya banyak pelampung di antara mereka. 
 they've got plenty of float between them.
 
 194
 00:08:44.004 --> 00:08:47.001
+(Siapkan Bagan Gantt dasar di Excel)
 Dan akhirnya, kami merekrut staf. 
 And then finally, we've got hiring the staff.
 
 195
 00:08:47.001 --> 00:08:49.001
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi kembali ke diagram catatan tempel saya, 
 So going back to my Post-It note diagram
 
 196
 00:08:49.001 --> 00:08:51.002
+(Siapkan Bagan Gantt dasar di Excel)
 saya dapat melihat bahwa itu akan memakan waktu delapan minggu 
 I can see that they're going to take eight weeks
 
 197
 00:08:51.002 --> 00:08:54.000
+(Siapkan Bagan Gantt dasar di Excel)
 dan mereka mengejar manajer. 
 and they come after the manager.
 
 198
 00:08:54.000 --> 00:08:59.005
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi staf dapat dilakukan kapan saja setelah poin ini di sini. 
 So the staff can be done any time after this point here.
 
 199
 00:08:59.005 --> 00:09:01.006
+(Siapkan Bagan Gantt dasar di Excel)
 Secara teknis ini dikenal sebagai floater 
 Technically this is known as a floater
 
 200
 00:09:01.006 --> 00:09:03.001
+(Siapkan Bagan Gantt dasar di Excel)
 yang menggantung floater, 
 that's hanging off a floater,bukan,
 
 201
 00:09:03.001 --> 00:09:06.003
+(Siapkan Bagan Gantt dasar di Excel)
 karena garis ini sebenarnya adalah garis yang dapat dipindahkan, bukan,
 because this line is actually a moveable line, isn't it,
 
 202
 00:09:06.003 --> 00:09:09.009
+(Siapkan Bagan Gantt dasar di Excel)
 karena tugas ini dapat terjadi di mana saja di sekitar sini. 
 because this task could be happening anywhere around here.
 
 203
 00:09:09.009 --> 00:09:11.009
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi mereka bergantung pada floater ini. 
 So they're depending on this floater.
 
 204
 00:09:11.009 --> 00:09:16.003
+(Siapkan Bagan Gantt dasar di Excel)
 Dan staf kapan saja antara sini dan selesai. 
 And the staff are anytime between here and the finish.
 
 205
 00:09:16.003 --> 00:09:17.005
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi ini adalah tugas delapan minggu, 
 So it's an eight week task,
 
 206
 00:09:17.005 --> 00:09:19.003
+(Siapkan Bagan Gantt dasar di Excel)
 di mana saya harus meletakkannya dalam kisaran ini? 
 where shall I put it in this range?
 
 207
 00:09:19.003 --> 00:09:23.006
+(Siapkan Bagan Gantt dasar di Excel)
 Aku benar-benar akan meletakkannya tepat di akhir, seperti ini. 
 I'm actually going to put it right at the end, like this.
 
 208
 00:09:23.006 --> 00:09:25.004
+(Siapkan Bagan Gantt dasar di Excel)
 Dan itu karena saya tidak ingin mempekerjakan staf 
 And that's because I don't want to hire the staff
 
 209
 00:09:25.004 --> 00:09:28.001
+(Siapkan Bagan Gantt dasar di Excel)
 dan membuat mereka duduk-duduk menghabiskan banyak uang untuk saya, 
 and have them sitting around costing me money for ages,
 
 210
 00:09:28.001 --> 00:09:31.006
+(Siapkan Bagan Gantt dasar di Excel)
 saya ingin mendapatkan mereka selambat mungkin. 
 I want to get them as late as I can.
 
 211
 00:09:31.006 --> 00:09:33.004
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi saya hanya akan memasukkan satu panah lagi. 
 So I'm just going to put in one more arrow.
 
 212
 00:09:33.004 --> 00:09:37.005
+(Siapkan Bagan Gantt dasar di Excel)
 Saya akan kembali ke Sisipkan, Ilustrasi, 
 I'm going to go back to Insert, Illustrations,
 
 213
 00:09:37.005 --> 00:09:40.001
+(Siapkan Bagan Gantt dasar di Excel)
 Bentuk, dan letakkan saja panah itu. 
 Shapes, and just put that arrow.
 
 214
 00:09:40.001 --> 00:09:42.000
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi saya bisa mendapatkan staf 
 So that says I could get the staff
 
 215
 00:09:42.000 --> 00:09:44.005
+(Siapkan Bagan Gantt dasar di Excel)
 kapan saja setelah minggu ke-13 jika saya mau, 
 any time after week 13 if I wanted,
 
 216
 00:09:44.005 --> 00:09:45.003
+(Siapkan Bagan Gantt dasar di Excel)
 tetapi saya tidak akan melakukannya. 
 but I'm not going to.
 
 217
 00:09:45.003 --> 00:09:48.001
+(Siapkan Bagan Gantt dasar di Excel)
 Aku akan mendapatkan mereka selambat mungkin. 
 I'm going to get them as late as possible.
 
 218
 00:09:48.001 --> 00:09:51.009
+(Siapkan Bagan Gantt dasar di Excel)
 Jadi itulah bagian utama dari bagan Gantt saya 
 So that's the main part of my Gantt chart done
 
 219
 00:09:51.009 --> 00:09:53.005
+(Siapkan Bagan Gantt dasar di Excel)
 dan saya ingin menunjukkan kepada Anda dua hal 
 and I wanted to show you the two things
 
 220
 00:09:53.005 --> 00:09:55.000
+(Siapkan Bagan Gantt dasar di Excel)
 yang sedikit rumit. 
 that are a little bit tricky.
 
 221
 00:09:55.000 --> 00:09:57.001
+(Siapkan Bagan Gantt dasar di Excel)
 Ide berbagi float 
 The idea of sharing of a float
 
 222
 00:09:57.001 --> 00:10:00.001
+(Siapkan Bagan Gantt dasar di Excel)
 dan ide floater yang menggantung floater. 
 and the idea of floaters that hang off floaters.
 
 223
 00:10:00.001 --> 00:10:02.001
+(Siapkan Bagan Gantt dasar di Excel)
 Jika Anda memahami kedua konsep tersebut, 
 If you understand those two concepts
 
 224
 00:10:02.001 --> 00:10:04.000
+(Siapkan Bagan Gantt dasar di Excel)
 Anda dapat menggambar bagan Gantt apa pun, 
 you can draw any Gantt chart,
 
 225
 00:10:04.000 --> 00:10:06.007
+(Siapkan Bagan Gantt dasar di Excel)
 Anda dapat membuat bagan Gantt terbesar di dunia, 
 you could construct the biggest Gantt chart in the world,
 
 226
 00:10:06.007 --> 00:10:09.009
+(Siapkan Bagan Gantt dasar di Excel)
 karena itu hanya dibangun dari blok bangunan dasar itu.
 because it's just built from those basic building blocks.

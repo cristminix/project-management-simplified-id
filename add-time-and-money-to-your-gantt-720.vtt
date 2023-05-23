@@ -8,529 +8,635 @@ WEBVTT
 
 2
 00:00:01.008 --> 00:00:03.007
+(Tambahkan waktu dan uang ke Gantt Anda)
 Saya sudah menyiapkan jalur kritis, 
 I've already set up the critical path,
 
 3
 00:00:03.007 --> 00:00:05.005
+(Tambahkan waktu dan uang ke Gantt Anda)
 dan tugas mengambang, 
 and the floating tasks,
 
 4
 00:00:05.005 --> 00:00:08.008
+(Tambahkan waktu dan uang ke Gantt Anda)
 dan nama, dan tanggal. 
 and the names, and the dates.
 
 5
 00:00:08.008 --> 00:00:10.009
+(Tambahkan waktu dan uang ke Gantt Anda)
 Sekarang, hal berikutnya yang akan saya lakukan adalah 
 Now, the next thing I'm going to do is
 
 6
 00:00:10.009 --> 00:00:15.002
+(Tambahkan waktu dan uang ke Gantt Anda)
 saya akan mengubah yang ini menjadi angka yang lebih berguna, 
 I'm going to change these ones into more useful numbers,
 
 7
 00:00:15.002 --> 00:00:16.008
+(Tambahkan waktu dan uang ke Gantt Anda)
 sehingga saya dapat menggunakan jam yang sebenarnya. 
 so I can put real hours.
 
 8
 00:00:16.008 --> 00:00:19.005
+(Tambahkan waktu dan uang ke Gantt Anda)
 Jadi anggap saja Dianne 
 So let's suppose it's going to take Dianne
 
 9
 00:00:19.005 --> 00:00:21.007
+(Tambahkan waktu dan uang ke Gantt Anda)
 membutuhkan waktu enam jam seminggu untuk memilih negara. 
 six hours a week to choose the country.
 
 10
 00:00:21.007 --> 00:00:27.000
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dia akan menghabiskan satu hari dalam seminggu untuk mencari di Google dan meneliti. 
 She's going to spend a day a week Googling and researching.
 
 11
 00:00:27.000 --> 00:00:29.000
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan misalkan Cody 
 And let's suppose that Cody
 
 12
 00:00:29.000 --> 00:00:31.004
+(Tambahkan waktu dan uang ke Gantt Anda)
 harus mengadakan pertemuan empat jam 
 is going to have to have a four hour meeting
 
 13
 00:00:31.004 --> 00:00:34.002
+(Tambahkan waktu dan uang ke Gantt Anda)
 dengan kantor penerbit izin. 
 with the permit issuing office.
 
 14
 00:00:34.002 --> 00:00:37.009
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan kemudian dia harus menunggu. 
 And then he's going to have to wait.
 
 15
 00:00:37.009 --> 00:00:39.008
+(Tambahkan waktu dan uang ke Gantt Anda)
 Sekarang, saya tidak suka cara itu tidak berwarna 
 Now, I don't like the way it doesn't color in
 
 16
 00:00:39.008 --> 00:00:42.000
+(Tambahkan waktu dan uang ke Gantt Anda)
 jika ada nol, jadi saya punya sedikit trik, 
 if there's a zero, so I've got a little trick,
 
 17
 00:00:42.000 --> 00:00:45.008
+(Tambahkan waktu dan uang ke Gantt Anda)
 saya suka memberi O sebagai gantinya. (tertawa) 
 I like to put an O instead. (laughs)
 
 18
 00:00:45.008 --> 00:00:47.008
+(Tambahkan waktu dan uang ke Gantt Anda)
 Jadi saya akan menempatkan itu. 
 So I'm going to put that.
 
 19
 00:00:47.008 --> 00:00:50.009
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan kemudian Cody memiliki sedikit kesibukan di ujung sana, 
 And then Cody has a little busy patch just at the end there,
 
 20
 00:00:50.009 --> 00:00:52.003
+(Tambahkan waktu dan uang ke Gantt Anda)
 di mana dia mengadakan rapat lagi, 
 where he has another meeting,
 
 21
 00:00:52.003 --> 00:00:56.002
+(Tambahkan waktu dan uang ke Gantt Anda)
 katakanlah rapat empat jam lagi. 
 let's say another four hour meeting.
 
 22
 00:00:56.002 --> 00:00:57.009
+(Tambahkan waktu dan uang ke Gantt Anda)
 Jadi, Anda kemudian akan melewatinya, 
 So, you would then go through,
 
 23
 00:00:57.009 --> 00:01:02.009
+(Tambahkan waktu dan uang ke Gantt Anda)
 dan Anda akan mengatur waktu di semua bar. 
 and you would put the hours on all of the bars.
 
 24
 00:01:02.009 --> 00:01:05.001
+(Tambahkan waktu dan uang ke Gantt Anda)
 Jadi, saya memiliki semua nomor saya sekarang, di sepanjang bar, 
 So, I've got all my numbers now, along the bars,
 
 25
 00:01:05.001 --> 00:01:07.008
+(Tambahkan waktu dan uang ke Gantt Anda)
 untuk jam-jam yang diperlukan untuk melakukan setiap pekerjaan. 
 for the hours it's going to take to do each job.
 
 26
 00:01:07.008 --> 00:01:09.008
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan saya kemudian dapat menambahkannya secara vertikal 
 And I can then add these up vertically
 
 27
 00:01:09.008 --> 00:01:11.005
+(Tambahkan waktu dan uang ke Gantt Anda)
 untuk mendapatkan total jam kerja saya. 
 to get my total hours.
 
 28
 00:01:11.005 --> 00:01:14.002
+(Tambahkan waktu dan uang ke Gantt Anda)
 Jika saya hanya pergi ke JumlahOtomatis, 
 If I just go to AutoSum,
 
 29
 00:01:14.002 --> 00:01:17.006
+(Tambahkan waktu dan uang ke Gantt Anda)
 itu memberi tahu saya bahwa saya memiliki enam jam kerja di minggu pertama. 
 that tells me I've got six hours of work in week number one.
 
 30
 00:01:17.006 --> 00:01:19.009
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan kemudian dengan menyalinnya, 
 And then by copying that across,
 
 31
 00:01:19.009 --> 00:01:21.009
+(Tambahkan waktu dan uang ke Gantt Anda)
 Saya dapat melihat berapa banyak waktu yang saya perlukan 
 I can see how much time I need to put in
 
 32
 00:01:21.009 --> 00:01:23.008
+(Tambahkan waktu dan uang ke Gantt Anda)
 untuk proyek saya. 
 in total to my project.
 
 33
 00:01:23.008 --> 00:01:25.008
+(Tambahkan waktu dan uang ke Gantt Anda)
 Jadi jika saya melakukan semua pekerjaan sendiri, 
 So if I'm doing all the work myself,
 
 34
 00:01:25.008 --> 00:01:27.004
+(Tambahkan waktu dan uang ke Gantt Anda)
 saya dapat menjumlahkan total jam kerja saya. 
 I can add up my total hours.
 
 35
 00:01:27.004 --> 00:01:30.001
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan saya dapat melihat bahwa saya memiliki beberapa minggu yang cukup sibuk di sini. 
 And I can see I've got some pretty busy weeks here.
 
 36
 00:01:30.001 --> 00:01:32.004
+(Tambahkan waktu dan uang ke Gantt Anda)
 Beberapa minggu yang cukup sibuk di sini. 
 Some pretty busy weeks over here.
 
 37
 00:01:32.004 --> 00:01:33.007
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan jika saya memiliki tim, 
 And if I've got a team,
 
 38
 00:01:33.007 --> 00:01:37.000
+(Tambahkan waktu dan uang ke Gantt Anda)
 saya dapat melihat jumlah total jam untuk tim saya. 
 I can look at the total number of hours for my team.
 
 39
 00:01:37.000 --> 00:01:38.006
+(Tambahkan waktu dan uang ke Gantt Anda)
 Jika Anda mengerjakan proyek yang sangat besar, 
 If you're doing a really huge project,
 
 40
 00:01:38.006 --> 00:01:39.007
+(Tambahkan waktu dan uang ke Gantt Anda)
 angka-angka ini bisa jadi 
 these numbers could actually be
 
 41
 00:01:39.007 --> 00:01:41.009
+(Tambahkan waktu dan uang ke Gantt Anda)
 adalah jumlah orang yang terlibat. 
 the numbers of people involved.
 
 42
 00:01:41.009 --> 00:01:45.000
+(Tambahkan waktu dan uang ke Gantt Anda)
 Anda tahu, ini membutuhkan 15 orang untuk pekerjaan tertentu, 
 You know, this is requiring 15 people on a particular job,
 
 43
 00:01:45.000 --> 00:01:47.002
+(Tambahkan waktu dan uang ke Gantt Anda)
 dan total 27 orang. 
 and 27 people in total.
 
 44
 00:01:47.002 --> 00:01:50.002
+(Tambahkan waktu dan uang ke Gantt Anda)
 Jadi, Anda dapat menggunakan angka-angka ini sesuka Anda. 
 So, you can use these numbers however you like.
 
 45
 00:01:50.002 --> 00:01:52.001
+(Tambahkan waktu dan uang ke Gantt Anda)
 Sekarang, JumlahOtomatis juga berfungsi secara horizontal. 
 Now, AutoSum also works horizontally.
 
 46
 00:01:52.001 --> 00:01:55.002
+(Tambahkan waktu dan uang ke Gantt Anda)
 Jadi yang bisa saya lakukan adalah, jika saya pergi secara horizontal seperti ini, 
 So what I can do is, if I go horizontally like this,
 
 47
 00:01:55.002 --> 00:01:57.009
+(Tambahkan waktu dan uang ke Gantt Anda)
 sampai akhir di sini dan klik JumlahOtomatis, 
 right to the end here and click on AutoSum,
 
 48
 00:01:57.009 --> 00:01:59.005
+(Tambahkan waktu dan uang ke Gantt Anda)
 saya dapat melihat bahwa saya memiliki total 
 I can see that I've got a total
 
 49
 00:01:59.005 --> 00:02:02.009
+(Tambahkan waktu dan uang ke Gantt Anda)
 380 jam yang diperlukan untuk proyek saya. 
 of 380 hours required for my project.
 
 50
 00:02:02.009 --> 00:02:05.006
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan jika saya seret ke atas, 
 And if I drag this upwards,
 
 51
 00:02:05.006 --> 00:02:08.003
+(Tambahkan waktu dan uang ke Gantt Anda)
 saya dapat melihat total yang diperlukan untuk setiap tugas. 
 I can look at the total required for each task.
 
 52
 00:02:08.003 --> 00:02:13.005
+(Tambahkan waktu dan uang ke Gantt Anda)
 Saya suka menghilangkan nol, hanya untuk kerapian. 
 I like to get rid of the zeros, just for neatness.
 
 53
 00:02:13.005 --> 00:02:17.007
+(Tambahkan waktu dan uang ke Gantt Anda)
 Jadi sekarang saya bisa melihat berapa jam yang saya habiskan untuk setiap tugas, 
 So I can now see how many hours I'm spending on each task,
 
 54
 00:02:17.007 --> 00:02:21.000
+(Tambahkan waktu dan uang ke Gantt Anda)
 dan juga kapan saya menggunakan jam saya. 
 and also when I'm using my hours.
 
 55
 00:02:21.000 --> 00:02:23.009
+(Tambahkan waktu dan uang ke Gantt Anda)
 Jadi saya dapat melihat bahwa saya memiliki tambalan yang sibuk di sini pada bulan Maret, 
 So I can see I've got a busy patch here in March,
 
 56
 00:02:23.009 --> 00:02:26.007
+(Tambahkan waktu dan uang ke Gantt Anda)
 dan saya memiliki tambalan yang sibuk di sini pada bulan Juli. 
 and I've got a busy patch here in July.
 
 57
 00:02:26.007 --> 00:02:29.009
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan saya juga dapat melihat, dan saya dapat melihat bahwa tugas ini, 
 And I can also look, and I can see that this task here,
 
 58
 00:02:29.009 --> 00:02:33.004
+(Tambahkan waktu dan uang ke Gantt Anda)
 memodifikasi bangunan, adalah tugas tersibuk saya. 
 modifying the building, is my busiest task.
 
 59
 00:02:33.004 --> 00:02:37.008
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan kemudian tugas tersibuk kedua saya adalah mempekerjakan staf. 
 And then my second busiest task is hiring the staff.
 
 60
 00:02:37.008 --> 00:02:38.006
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan saya bisa berpikir, 
 And I can think,
 
 61
 00:02:38.006 --> 00:02:41.007
+(Tambahkan waktu dan uang ke Gantt Anda)
 "Apakah saya ingin menghabiskan 52 jam mempekerjakan staf?" 
 &quot;Do I want to spend 52 hours hiring the staff?&quot;
 
 62
 00:02:41.007 --> 00:02:45.001
+(Tambahkan waktu dan uang ke Gantt Anda)
 Mungkin akan lebih murah untuk memiliki agen perekrutan 
 Maybe it would work out cheaper to have a recruitment agency
 
 63
 00:02:45.001 --> 00:02:46.001
+(Tambahkan waktu dan uang ke Gantt Anda)
 atau semacamnya. 
 or something like that.
 
 64
 00:02:46.001 --> 00:02:48.007
+(Tambahkan waktu dan uang ke Gantt Anda)
 Jadi saya dapat memeriksa kewarasan, "Apakah angka-angka ini terlihat benar?" 
 So I can sanity check, &quot;Do these numbers look right?&quot;
 
 65
 00:02:48.007 --> 00:02:49.006
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan saya juga dapat berpikir, 
 And I can also think,
 
 66
 00:02:49.006 --> 00:02:54.001
+(Tambahkan waktu dan uang ke Gantt Anda)
 "Apakah saya ingin menghabiskan banyak waktu untuk tugas-tugas itu?" 
 &quot;Do I want to spend that much time on those tasks?&quot;
 
 67
 00:02:54.001 --> 00:02:56.004
+(Tambahkan waktu dan uang ke Gantt Anda)
 Jadi, hal terakhir yang ingin saya tunjukkan adalah 
 So, the final thing I want to show you is
 
 68
 00:02:56.004 --> 00:03:00.007
+(Tambahkan waktu dan uang ke Gantt Anda)
 saya akan mengganti nama sheet hours ini. 
 I'm going to rename this sheet hours.
 
 69
 00:03:00.007 --> 00:03:03.006
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan kemudian saya akan membuat salinan seluruh sheet. 
 And then I'm going to make a copy of the whole sheet.
 
 70
 00:03:03.006 --> 00:03:06.006
+(Tambahkan waktu dan uang ke Gantt Anda)
 Jadi saya akan klik kanan, dan saya akan pindah atau Salin. 
 So I'm going to right click, and I'm going to go Move or Copy.
 
 71
 00:03:06.006 --> 00:03:09.006
+(Tambahkan waktu dan uang ke Gantt Anda)
 Pindah ke akhir, Buat salinan. 
 Move to the end, Create a copy.
 
 72
 00:03:09.006 --> 00:03:14.008
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan saya akan menyebut biaya salinan kedua ini. 
 And I'm going to call this second copy costs.
 
 73
 00:03:14.008 --> 00:03:16.004
+(Tambahkan waktu dan uang ke Gantt Anda)
 Saya punya dua lembar identik di sini, 
 I've got two identical sheets here,
 
 74
 00:03:16.004 --> 00:03:19.004
+(Tambahkan waktu dan uang ke Gantt Anda)
 tetapi saya bs kembali dan saya bisa menyisipkan uang
 but I can go back through and I can put the money
 
 75
 00:03:19.004 --> 00:03:23.001
+(Tambahkan waktu dan uang ke Gantt Anda)
 ke bar ini ketimbang waktu. 
 into these bars instead of the time.
 
 76
 00:03:23.001 --> 00:03:25.004
+(Tambahkan waktu dan uang ke Gantt Anda)
 Jadi, dengan cara yang sama seperti yang saya lakukan selama berjam-jam, 
 So, in the same way that I had for the hours,
 
 77
 00:03:25.004 --> 00:03:26.008
+(Tambahkan waktu dan uang ke Gantt Anda)
 sekarang saya dapat melihat biaya saya. 
 I can now see my costs.
 
 78
 00:03:26.008 --> 00:03:28.008
+(Tambahkan waktu dan uang ke Gantt Anda)
 Saya bisa melihat apa yang saya belanjakan kapan. 
 I can see what I'm spending when.
 
 79
 00:03:28.008 --> 00:03:30.008
+(Tambahkan waktu dan uang ke Gantt Anda)
 Saya bisa, saya punya pengeluaran besar di sana, 
 I can I've got some big expenditure there,
 
 80
 00:03:30.008 --> 00:03:33.000
+(Tambahkan waktu dan uang ke Gantt Anda)
 minggu mulai 8 Maret. 
 week commencing 8th of March.
 
 81
 00:03:33.000 --> 00:03:35.003
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan saya punya sedikit lagi di sana, 2 Mei. 
 And I've got another bit there, 2nd of May.
 
 82
 00:03:35.003 --> 00:03:38.004
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan saya punya cukup banyak uang yang dihabiskan sekitar bulan Juli. 
 And I've got quite a lot of money being spent around July.
 
 83
 00:03:38.004 --> 00:03:43.007
+(Tambahkan waktu dan uang ke Gantt Anda)
 Saya dapat melihat bahwa total pengeluaran saya adalah $1.298. 
 I can see that my total expenditure is $1,298.
 
 84
 00:03:43.007 --> 00:03:46.003
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan saya juga bisa melihat untuk apa saya membelanjakan uang itu. 
 And I can also see what I'm spending the money on.
 
 85
 00:03:46.003 --> 00:03:50.000
+(Tambahkan waktu dan uang ke Gantt Anda)
 Saya dapat melihat bahwa barang-barang saya yang paling mahal adalah keduanya di sini, 
 I can see that my most expensive things are these two here,
 
 86
 00:03:50.000 --> 00:03:53.006
+(Tambahkan waktu dan uang ke Gantt Anda)
 pembelian situs, dan modifikasi bangunan. 
 the buying of the site, and the modifying of the building.
 
 87
 00:03:53.006 --> 00:03:55.001
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan saya hanya bisa memeriksa kewarasan dan berpikir, 
 And I could just sanity check and think,
 
 88
 00:03:55.001 --> 00:03:57.003
+(Tambahkan waktu dan uang ke Gantt Anda)
 "Apakah itu terasa benar?" 
 &quot;Does that feel right?&quot;
 
 89
 00:03:57.003 --> 00:03:59.005
+(Tambahkan waktu dan uang ke Gantt Anda)
 Jadi, sekarang saya sudah mendapatkan semua detail yang saya perlukan 
 So, I've now got all the detail I need
 
 90
 00:03:59.005 --> 00:04:01.006
+(Tambahkan waktu dan uang ke Gantt Anda)
 tentang uang yang akan saya keluarkan, 
 about the money I'm going to spend,
 
 91
 00:04:01.006 --> 00:04:05.001
+(Tambahkan waktu dan uang ke Gantt Anda)
 dan waktu yang akan saya habiskan untuk proyek saya. 
 and the hours that I'm going to spend on my project.
 
 92
 00:04:05.001 --> 00:04:07.004
+(Tambahkan waktu dan uang ke Gantt Anda)
 Jadi, bagan Gannt saya sudah lengkap. 
 So, my Gannt chart is complete.
 
 93
 00:04:07.004 --> 00:04:10.005
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan ingat bahwa jika saya memiliki lebih dari 20 tugas,
 And remember that if I have more than 20 tasks,
 
 94
 00:04:10.005 --> 00:04:12.006
+(Tambahkan waktu dan uang ke Gantt Anda)
 katakanlah saya punya 200, 
 say I have 200,
 
 95
 00:04:12.006 --> 00:04:15.001
+(Tambahkan waktu dan uang ke Gantt Anda)
 saya dapat memiliki bagan Gannt tingkat tinggi seperti ini, 
 I can have a high-level Gannt chart like this,
 
 96
 00:04:15.001 --> 00:04:20.005
+(Tambahkan waktu dan uang ke Gantt Anda)
 dan kemudian dalam 20 tugas tingkat tinggi saya, saya dapat memiliki sub-rencana, 
 and then within my 20 high level tasks I can have sub-plans,
 
 97
 00:04:20.005 --> 00:04:23.003
+(Tambahkan waktu dan uang ke Gantt Anda)
 yang berasal dari rencana Catatan tempel. 
 which come from a smaller Post-it Note plan.
 
 98
 00:04:23.003 --> 00:04:26.001
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan mereka sekarang menjadi sub-Gannts. 
 And they now become sub-Gannts.
 
 99
 00:04:26.001 --> 00:04:29.008
+(Tambahkan waktu dan uang ke Gantt Anda)
 Jadi, mengambil contoh seperti, "Dapatkan izin." 
 So, taking an example something like, &quot;Get the permit.&quot;
 
 100
 00:04:29.008 --> 00:04:33.006
+(Tambahkan waktu dan uang ke Gantt Anda)
 Di lembar terpisah saya bisa memiliki sedikit sub-Gannt, 
 On a separate sheet I could have a little sub-Gannt,
 
 101
 00:04:33.006 --> 00:04:37.001
+(Tambahkan waktu dan uang ke Gantt Anda)
 which explains what's going on within that task.
 
 102
 00:04:37.001 --> 00:04:40.002
+(Tambahkan waktu dan uang ke Gantt Anda)
 Dan kemudian saya bisa menjaga Gannt tingkat tinggi saya tetap bagus dan sederhana, 
 And then I can keep my high-level Gannt nice and simple,
 
 103
 00:04:40.002 --> 00:04:42.009
+(Tambahkan waktu dan uang ke Gantt Anda)
 dan kemudian saya dapat menelusuri detail 
 and then I can drill into the details
 
 104
 00:04:42.009 --> 00:04:46.002
+(Tambahkan waktu dan uang ke Gantt Anda)
 untuk mendapatkan izin saat saya melakukan tugas itu, 
 of getting the permit when I get to that task,
 
 105
 00:04:46.002 --> 00:04:48.000
+(Tambahkan waktu dan uang ke Gantt Anda)
 jika saya mau. 
 if I want to.
 
 106
 00:04:48.000 --> 00:04:49.001
+(Tambahkan waktu dan uang ke Gantt Anda)
 Jadi begitulah. 
 So there you are.
 
 107
 00:04:49.001 --> 00:04:51.004
+(Tambahkan waktu dan uang ke Gantt Anda)
 Itu adalah bagan Gannt di Excel.
 That is a Gannt chart in Excel.
