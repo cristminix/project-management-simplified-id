@@ -45,3 +45,5 @@ indonesian subtitle for linkedlin learning course https://www.linkedin.com/learn
 
 ### Sumber Daya
 - Perencanaan Sumber Daya Untuk Satu Proyek
+- Perencanaan sumber daya untuk beberapa proyek
+- [Kuis Bab 7](kuis/KUIS_BAB_8.MD)
