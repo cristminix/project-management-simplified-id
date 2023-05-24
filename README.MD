@@ -42,3 +42,6 @@ indonesian subtitle for linkedlin learning course https://www.linkedin.com/learn
 - Tambahkan nama dan tanggal ke Gantt Anda
 - Tambahkan waktu dan uang ke Gantt Anda
 - [Kuis Bab 7](kuis/KUIS_BAB_7.MD)
+
+### Sumber Daya
+- Perencanaan Sumber Daya Untuk Satu Proyek
