@@ -52,3 +52,12 @@ indonesian subtitle for linkedlin learning course https://www.linkedin.com/learn
 - Cara Membuat Bagan Resiko
 - [Kuis Bab 9](kuis/KUIS_BAB_9.MD)
 
+### Pantau Kemajuan
+- Bagaimana Memantau Kemajuan Proyek
+- [Kuis Bab 10](kuis/KUIS_BAB_10.MD)
+
+### Pantau Biaya
+- Pantau Biaya: Potensi Jebakan
+- Enam Kombinasi kemajuan dan Pengeluaran
+- Bagaimana Meramalkan Biaya Masa Depan
+- [Kuis Bab 11](kuis/KUIS_BAB_11.MD)

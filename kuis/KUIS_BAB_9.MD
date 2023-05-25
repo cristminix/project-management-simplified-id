@@ -3,7 +3,7 @@
 
 - paparan dan pemulihan
 
-- keseriusan dan mitigasi
+- keseriusan dan mitigasi(pencegahan dan penanggulangan)
 
 - dampak keuangan dan asuransi
 
