@@ -94,43 +94,109 @@ Kami telah menghabiskan 550, sedikit lebih banyak dari yang seharusnya,
 
 tetapi kami hanya melakukan mungkin senilai 450.
 
-Jadi kita sebenarnya lebih dari 100, bukan hanya 50 yang bisa dilihat akuntan.
+Jadi kita sebenarnya lebih dari 100, 
 
-Dan itu juga sulit untuk diperbaiki karena mengejar waktu akan menghabiskan lebih banyak uang dan membuat situasi uang menjadi lebih buruk daripada lebih baik.
+bukan hanya 50 yang bisa dilihat akuntan.
+
+Dan itu juga sulit untuk diperbaiki 
+
+karena mengejar waktu akan menghabiskan lebih banyak uang 
+
+dan membuat situasi uang menjadi lebih buruk daripada lebih baik.
 
 Pada dasarnya, Anda tidak dapat memperbaiki waktu dan uang secara bersamaan.
 
-Jadi nomor tiga tidak baik dan itu umum karena masalah seperti, misalnya, harus melakukan tugas dua kali akan membuat Anda berdua terlambat dan mengeluarkan uang terlalu banyak.
+Jadi nomor tiga tidak baik dan itu umum 
 
-Nomor empat adalah akun yang disukai, tepat.
+karena masalah seperti, misalnya, 
 
-Tapi haruskah mereka menyukainya? Tidak karena kami belum melakukan semua pekerjaan.
+harus melakukan tugas dua kali 
+
+akan membuat Anda berdua terlambat dan mengeluarkan uang terlalu banyak.
+
+Nomor empat adalah apa yang akuntan sukai, sorot.
+
+Tapi haruskah mereka menyukainya? 
+
+Tidak karena kami belum melakukan semua pekerjaan.
 
 Kami hanya melakukan sekitar 450 tetapi kami telah menghabiskan 500.
 
 Jadi kami sebenarnya terlalu banyak mengeluarkan uang dan terlambat.
 
-Situasi seperti ini dapat dengan mudah terjadi ketika proyek Anda hanya untuk orang-orang.
+Situasi seperti ini dapat dengan mudah terjadi 
 
-Biaya tim Anda persis seperti yang Anda harapkan , tetapi mereka tertinggal dalam pekerjaan.
+ketika proyek Anda hanya untuk orang-orang.
+
+Biaya tim Anda persis seperti yang Anda harapkan, 
+
+tetapi mereka tertinggal dalam pekerjaan.
 
 Jadi Anda mengeluarkan uang terlalu banyak, mungkin tanpa disadari.
 
-Lalu ada nomor lima yang merupakan yang terburuk dari semuanya , namun para akuntan tidak dapat melihatnya kecuali mereka memiliki akses ke bagan Gantt.
+Lalu ada nomor lima yang merupakan yang terburuk dari semuanya, 
 
-Anda telah menghabiskan banyak uang untuk tugas pertama itu, Anda telah menghabiskan 450 dan Anda hanya melakukan satu tugas, yang mungkin dimaksudkan hanya menghabiskan biaya sekitar 200, dan Anda sangat terlambat namun, keduanya digabungkan untuk memberi Anda angka 450 yang dihabiskan sejauh ini yang kedengarannya oke, sedikit di bawah anggaran, apa yang salah dengan itu? Ini benar-benar menunjukkan perlunya memisahkan pengeluaran dari tingkat aktivitas.
+namun para akuntan tidak dapat melihatnya 
 
-Tetapi juga, awasi pengeluaran nonlinier karena mungkin tugas pertama itu dimaksudkan untuk menghabiskan biaya 450 dan semua hal lain yang belum Anda lakukan, karena Anda berada di belakang rencana, hanya bernilai 50-an.
+kecuali mereka memiliki akses ke bagan Gantt.
 
-Ini adalah harapan yang harus dipegang sampai Anda memeriksa apa sebenarnya tugas itu.
+Anda telah menghabiskan banyak uang untuk tugas pertama itu, 
 
-Akhirnya, ada situasi enam di mana Anda sedikit tertinggal dalam kemajuan tetapi Anda memiliki uang cadangan yang dapat Anda gunakan untuk mengejar waktu, jika Anda mau.
+Anda telah menghabiskan 450 dan Anda hanya melakukan satu tugas, 
 
-Jadi itulah proses pemikiran di mana Anda menggabungkan angka pengeluaran aktual dan yang direncanakan dengan jumlah kemajuan yang Anda dapatkan dari bagan Gantt.
+yang mungkin dimaksudkan hanya menghabiskan biaya sekitar 200, 
+
+dan Anda sangat terlambat namun, 
+
+keduanya digabungkan untuk memberi Anda 
+
+angka 450 yang dihabiskan sejauh ini yang kedengarannya oke, 
+
+sedikit di bawah anggaran, apa yang salah dengan itu? 
+
+Ini benar-benar menunjukkan perlunya memisahkan pengeluaran 
+
+dari tingkat aktivitas.
+
+Tetapi juga, awasi pengeluaran nonlinier 
+
+karena mungkin tugas pertama itu dimaksudkan untuk menghabiskan biaya 450 
+
+dan semua hal lain yang belum Anda lakukan, 
+
+karena Anda berada di belakang rencana, hanya bernilai 50-an.
+
+Ini adalah harapan yang harus dipegang sampai Anda memeriksa 
+
+apa sebenarnya tugas itu.
+
+Akhirnya, ada situasi enam 
+
+di mana Anda sedikit tertinggal dalam kemajuan 
+
+tetapi Anda memiliki uang cadangan yang dapat Anda gunakan 
+
+untuk mengejar waktu, jika Anda mau.
+
+Jadi itulah proses pemikiran 
+
+di mana Anda menggabungkan angka pengeluaran aktual dan yang direncanakan 
+
+dengan jumlah kemajuan 
+
+yang Anda dapatkan dari bagan Gantt.
 
 Dan Anda mengawasi pengeluaran nonlinier.
 
-Apakah pekerjaan yang telah Anda selesaikan atau belum selesaikan, atau masih harus dilakukan jauh lebih mahal daripada pekerjaan lainnya? Poin besarnya adalah selalu periksa bagan Gantt Anda saat Anda melihat informasi keuangan.
+Apakah pekerjaan yang telah Anda selesaikan atau belum selesaikan, 
+
+atau masih harus dilakukan jauh lebih mahal 
+
+daripada pekerjaan lainnya? 
+
+Poin besarnya adalah selalu periksa bagan Gantt Anda 
+
+saat Anda melihat informasi keuangan.
 
 Dan interpretasinya cukup masuk akal.
 

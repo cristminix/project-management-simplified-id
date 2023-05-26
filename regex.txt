@@ -1,0 +1,4 @@
+find:
+	(\d+\:\d+\:\d+\.\d+ \-\-> \d+\:\d+\:\d+\.\d+)
+replace:
+	\1\n(video_title)
