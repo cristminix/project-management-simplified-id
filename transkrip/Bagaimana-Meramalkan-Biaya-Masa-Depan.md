@@ -50,24 +50,52 @@ atau akankah kita melanjutkan pengeluaran berlebihan pada tingkat yang sama
 
 seperti yang kita lakukan di babak pertama dan berakhir di 110? 
 
-Biasanya Anda akan tahu apakah masalah yang Anda alami di babak pertama kemungkinan besar akan terulang atau tidak.
+Biasanya Anda akan tahu apakah masalah yang Anda alami 
 
-Jelas jika upah atau nilai tukar yang lebih tinggi, maka Anda tahu itu akan berlanjut.
+di babak pertama kemungkinan besar akan terulang atau tidak.
 
-Tetapi bagaimana jika itu adalah kumpulan masalah kecil yang tampaknya sudah Anda tinggalkan sekarang? Saya pikir Anda dapat berasumsi bahwa akan ada masalah kecil lain yang berbeda di babak kedua.
+Jelas jika upah atau nilai tukar yang lebih tinggi, 
 
-Jadi jika ragu, asumsikan jumlah pengeluaran berlebih dan keterlambatan yang sama di paruh kedua.
+maka Anda tahu itu akan berlanjut.
+
+Tetapi bagaimana jika itu adalah kumpulan masalah kecil 
+
+yang tampaknya sudah Anda tinggalkan sekarang? 
+
+Saya pikir Anda dapat berasumsi bahwa akan ada 
+
+masalah kecil lain yang berbeda di babak kedua.
+
+Jadi jika ragu, asumsikan jumlah 
+
+pengeluaran berlebih dan keterlambatan yang sama di paruh kedua.
 
 Secara umum, paling aman untuk mengasumsikan yang terburuk.
 
-Bahwa jika Anda membelanjakan terlalu banyak di babak pertama, itu akan berlanjut seperti itu.
+Bahwa jika Anda membelanjakan terlalu banyak di babak pertama, 
 
-Dan jika pembelanjaan Anda kurang di titik tengah, maka Anda mungkin akan kembali ke rencana untuk paruh kedua.
+itu akan berlanjut seperti itu.
 
-Hanya jika itu pasti satu kali, seperti misalnya awal proyek ditunda, atau spesifikasi diubah selama paruh pertama.
+Dan jika pembelanjaan Anda kurang di titik tengah, 
 
-Hanya dengan begitu Anda dapat berasumsi bahwa Anda akan kembali ke rencana untuk babak kedua.
+maka Anda mungkin akan kembali ke rencana untuk paruh kedua.
 
-Jadi begitulah cara Anda memperkirakan biaya dan skala waktu di masa mendatang.
+Hanya jika itu pasti satu kali, 
 
-Apakah menurut Anda proyek Anda saat ini akan memiliki babak kedua yang lebih baik? Atau akan melanjutkan hal yang sama?
+seperti misalnya awal proyek ditunda, 
+
+atau spesifikasi diubah selama paruh pertama.
+
+Hanya dengan begitu Anda dapat berasumsi bahwa Anda akan 
+
+kembali ke rencana untuk babak kedua.
+
+Jadi begitulah cara Anda memperkirakan biaya dan skala waktu 
+
+di masa mendatang.
+
+Apakah menurut Anda proyek Anda saat ini 
+
+akan memiliki babak kedua yang lebih baik? 
+
+Atau akan melanjutkan hal yang sama?

@@ -61,3 +61,19 @@ indonesian subtitle for linkedlin learning course https://www.linkedin.com/learn
 - Enam Kombinasi kemajuan dan Pengeluaran
 - Bagaimana Meramalkan Biaya Masa Depan
 - [Kuis Bab 11](kuis/KUIS_BAB_11.MD)
+
+## Sesuaikan Kembali Rencana
+- Kapan Harus Menyesuaikan Kembali Rencana
+- Lakukan Saat Proyek Terlambat atau Overbudget
+- [Kuis Bab 12](kuis/KUIS_BAB_12.MD)
+
+## Ulasan / Peninjauan
+- Mengapa Mengindari Menijau Proyek
+- Bagaimana Meninjau Proyek
+- [Kuis Bab 13](kuis/KUIS_BAB_13.MD)
+
+## Kesimpulan
+- Terapkan proses 12 Langkah Sederhana
+- [Kuis Bab 14](kuis/KUIS_BAB_14.MD)
+
+
