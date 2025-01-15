@@ -13,7 +13,7 @@ indonesian subtitle for linkedlin learning course https://www.linkedin.com/learn
 - Rencanakan Sebelum Anda Berkomitmen
 - Rapat Awal / Kickoff
 - Faktor Penggerak Proyek Utama
-- [Kuis Bab 3](kuis/KUIS_BAB_2.MD)
+- [Kuis Bab 2](kuis/KUIS_BAB_2.MD)
 
 ### Buat daftar tugas
 - Tiga Cara untuk membuat daftar tugas
