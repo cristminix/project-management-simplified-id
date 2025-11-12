@@ -1,0 +1,8 @@
+Ini adalah baris biasa
+# Ini adalah komentar
+Baris lain tanpa tanda pagar
+# Ini juga komentar
+Dan ini bukan komentar
+# Komentar lain
+Teks biasa
+# Baris komentar terakhir

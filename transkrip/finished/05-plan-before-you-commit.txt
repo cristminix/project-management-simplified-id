@@ -1,0 +1,218 @@
+(Rencanakan Sebelum Anda Berkomitmen)
+- Ketika Anda diminta untuk menyampaikan sebuah proyek,
+- When you are asked to deliver a project
+(Rencanakan Sebelum Anda Berkomitmen)
+hanya ada tiga hal yang dapat Anda katakan.
+there are only three things you can say.
+(Rencanakan Sebelum Anda Berkomitmen)
+Yang pertama adalah ya, saya bisa melakukan itu.
+The first is yes, I can do that.
+(Rencanakan Sebelum Anda Berkomitmen)
+Mengatakan ini akan sangat berisiko tanpa rencana,
+Saying this would be quite risky without a plan,
+(Rencanakan Sebelum Anda Berkomitmen)
+jadi saya pasti akan merekomendasikan untuk pergi
+so I would definitely recommend going away
+(Rencanakan Sebelum Anda Berkomitmen)
+dan mencari tahu apakah Anda dapat menyelesaikan proyek
+and working out whether you can deliver the project
+(Rencanakan Sebelum Anda Berkomitmen)
+sebelum Anda menjanjikannya.
+before you promise it.
+(Rencanakan Sebelum Anda Berkomitmen)
+Segera setelah Anda mengatakan ya, bahkan untuk proyek yang mustahil.
+As soon as you say yes, even to an impossible project.
+(Rencanakan Sebelum Anda Berkomitmen)
+Bahkan jika Anda terburu-buru atau dipaksa untuk membuat keputusan,
+Even if you're rushed or coerced into making a decision,
+(Rencanakan Sebelum Anda Berkomitmen)
+saat Anda mengatakan ya, keputusan itu milik Anda.
+when you say yes, it's yours.
+(Rencanakan Sebelum Anda Berkomitmen)
+Dan jika nanti Anda gagal,
+And if you fail later,
+(Rencanakan Sebelum Anda Berkomitmen)
+Anda berhak disalahkan.
+you quite rightly get the blame.
+(Rencanakan Sebelum Anda Berkomitmen)
+Jadi pastikan Anda tahu Anda bisa melakukannya
+So make sure that you know you can do it
+(Rencanakan Sebelum Anda Berkomitmen)
+karena Anda punya rencana yang sangat bagus,
+because you've got a really good plan,
+(Rencanakan Sebelum Anda Berkomitmen)
+dan kemudian Anda bisa mengatakan ya.
+and then you can say yes.
+(Rencanakan Sebelum Anda Berkomitmen)
+Hal berikutnya yang dapat Anda katakan adalah tidak, saya tidak dapat melakukan proyek itu
+The next thing you can say is no, I can't do that project
+(Rencanakan Sebelum Anda Berkomitmen)
+dengan spesifikasi itu dalam skala waktu itu untuk uang itu.
+to that spec in that time scale for that money.
+(Rencanakan Sebelum Anda Berkomitmen)
+Faktanya, Idealnya, daripada tidak, Anda akan mengatakan
+In fact, Ideally, instead of no, you'd say
+(Rencanakan Sebelum Anda Berkomitmen)
+untuk melakukannya dalam skala waktu itu atau untuk biaya itu,
+to do it in that time scale or for that cost,
+(Rencanakan Sebelum Anda Berkomitmen)
+saya harus mengurangi spesifikasi sebanyak ini
+I'll need to reduce the specification by this much
+(Rencanakan Sebelum Anda Berkomitmen)
+atau untuk mencapai kualitas itu
+or to achieve that quality
+saya memerlukan waktu dan uang ekstra sebanyak ini.
+I need this much extra time and money.
+(Rencanakan Sebelum Anda Berkomitmen)
+Tetapi hanya mengatakan Anda tidak dapat melakukannya
+But just saying you can't do it
+(Rencanakan Sebelum Anda Berkomitmen)
+atau Anda membutuhkan lebih banyak uang dan waktu terdengar agak negatif ,
+or you need more money and time sounds a bit negative
+(Rencanakan Sebelum Anda Berkomitmen)
+jadi yang terbaik adalah memiliki rencana
+so it's best to have a plan
+(Rencanakan Sebelum Anda Berkomitmen)
+untuk melambaikan tangan ke atasan atau pelanggan atau pemangku kepentingan Anda.
+to wave around at your boss or customer or stakeholders.
+(Rencanakan Sebelum Anda Berkomitmen)
+Ini idealnya
+This would be ideally
+(Rencanakan Sebelum Anda Berkomitmen)
+dalam bentuk Gantt Chart seperti ini.
+in the form of a Gantt Chart like this.
+(Rencanakan Sebelum Anda Berkomitmen)
+Karena ini cepat dan mudah dipahami semua orang,
+Because these are quick and easy for everyone to understand,
+(Rencanakan Sebelum Anda Berkomitmen)
+bahkan untuk pelanggan
+even for customers
+(Rencanakan Sebelum Anda Berkomitmen)
+yang tidak tahu apa-apa tentang manajemen proyek.
+who know nothing about project management.
+(Rencanakan Sebelum Anda Berkomitmen)
+Jelas terlihat bahwa ini adalah tugas-tugasnya,
+It's plain to see that these are the tasks,
+(Rencanakan Sebelum Anda Berkomitmen)
+ini adalah minggu-minggu yang berlalu.
+these are the weeks slipping by.
+(Rencanakan Sebelum Anda Berkomitmen)
+Tidak ada yang bisa tumpang tindih,
+Nothing can overlap,
+(Rencanakan Sebelum Anda Berkomitmen)
+jadi ini adalah berapa lama waktu yang dibutuhkan untuk semuanya.
+so this is how long the whole thing's going to take.
+(Rencanakan Sebelum Anda Berkomitmen)
+Ini juga menunjukkan kualitas atau ruang lingkup proyek
+It also shows the quality or scope of the project
+(Rencanakan Sebelum Anda Berkomitmen)
+karena menunjukkan semua pekerjaan yang akan dilakukan,
+because it shows all the work that's going to be done,
+(Rencanakan Sebelum Anda Berkomitmen)
+dan ini menunjukkan mengapa biaya proyek mungkin lebih mahal
+and it shows why the project is probably costing more
+(Rencanakan Sebelum Anda Berkomitmen)
+daripada yang diharapkan atau diinginkan pelanggan.
+than the customer expects or wants.
+(Rencanakan Sebelum Anda Berkomitmen)
+Pelanggan sering kali terkejut
+Customers are often surprised
+(Rencanakan Sebelum Anda Berkomitmen)
+pada berapa banyak yang terlibat dalam proyek
+at how much is involved in a project
+(Rencanakan Sebelum Anda Berkomitmen)
+saat mereka melihat Bagan Gantt.
+when they see the Gantt Chart.
+(Rencanakan Sebelum Anda Berkomitmen)
+Jadi ini memungkinkan Anda untuk menekan waktu, kualitas, atau biaya,
+So it allows you to push back on time, quality, or cost,
+(Rencanakan Sebelum Anda Berkomitmen)
+jika kombinasi dari semuanya tidak mungkin.
+if the combination of those is impossible.
+(Rencanakan Sebelum Anda Berkomitmen)
+Saya suka berpikir bahwa perencanaan membuat Anda lebih kuat.
+I like to think that planning makes you stronger.
+(Rencanakan Sebelum Anda Berkomitmen)
+Ini memberi Anda alat berdebat
+It gives you an arguing tool
+(Rencanakan Sebelum Anda Berkomitmen)
+jika proyek tidak dapat dilakukan.
+if the project just can't be done.
+(Rencanakan Sebelum Anda Berkomitmen)
+Pilihan ketiga setelah ya dan tidak adalah mungkin.
+The third option after yes and no is maybe.
+(Rencanakan Sebelum Anda Berkomitmen)
+Dan saya pikir ini adalah pilihan terburuk.
+And I think this is the worst option.
+(Rencanakan Sebelum Anda Berkomitmen)
+Anda mungkin berpikir bahwa itu memberi Anda kelonggaran,
+You might think that it gives you some leeway,
+(Rencanakan Sebelum Anda Berkomitmen)
+tetapi kedengarannya seperti ya bagi pelanggan.
+but it just sounds like yes to the customer.
+(Rencanakan Sebelum Anda Berkomitmen)
+Jika Anda mengatakan jika semuanya bekerja pertama kali
+If you say if everything works first time
+(Rencanakan Sebelum Anda Berkomitmen)
+dan tidak ada yang berubah atau salah
+and nothing changes or goes wrong
+(Rencanakan Sebelum Anda Berkomitmen)
+maka saya mungkin bisa melakukannya.
+then I can probably do it.
+(Rencanakan Sebelum Anda Berkomitmen)
+Mereka hanya mendengar ya.
+They just hear yes.
+(Rencanakan Sebelum Anda Berkomitmen)
+Jika Anda mengatakan saya akan melihat apa yang bisa saya lakukan, mereka hanya mendengar ya.
+If you say I'll see what I can do they just hear yes.
+(Rencanakan Sebelum Anda Berkomitmen)
+Satu-satunya hal yang tidak terdengar seperti ya adalah tidak.
+The only thing that doesn't sound like yes is no.
+(Rencanakan Sebelum Anda Berkomitmen)
+Tidak, Anda tidak dapat memilikinya.
+No, you can't have it.
+(Rencanakan Sebelum Anda Berkomitmen)
+Jadi saya akan sangat menyarankan agar Anda merencanakannya
+So I would strongly recommend that you plan it out
+(Rencanakan Sebelum Anda Berkomitmen)
+dan memiliki Bagan Gantt dari awal
+and have a Gantt Chart from the start
+(Rencanakan Sebelum Anda Berkomitmen)
+dan kemudian Anda dapat dengan percaya diri mengatakan ya atau tidak dan bukan mungkin.
+and then you can confidently say yes or no and not maybe.
+(Rencanakan Sebelum Anda Berkomitmen)
+Tentu saja jika mereka mengubah hal-hal di tengah jalan,
+Of course if they change things halfway through,
+(Rencanakan Sebelum Anda Berkomitmen)
+maka Anda dapat mengatakan saya ingin menambahkan fitur tambahan itu
+then you can say I'd love to add that extra feature
+(Rencanakan Sebelum Anda Berkomitmen)
+ke ide hebat,
+to great idea,
+(Rencanakan Sebelum Anda Berkomitmen)
+tetapi itu bukan pekerjaan yang kami sepakati di awal,
+but it wasn't in the job that we agreed at the start,
+(Rencanakan Sebelum Anda Berkomitmen)
+jadi biayanya sedikit lebih mahal dan waktunya sedikit lebih lama.
+so it will cost a bit more and take a bit longer.
+(Rencanakan Sebelum Anda Berkomitmen)
+Tapi Anda baik-baik saja dengan itu, bukan?
+But you're okay with that, aren't you?
+(Rencanakan Sebelum Anda Berkomitmen)
+Manajemen proyek sama sekali tidak fleksibel.
+Project management isn't inflexible at all.
+(Rencanakan Sebelum Anda Berkomitmen)
+Anda dapat membuat perubahan apa pun yang diinginkan pelanggan
+You can make any changes that your customer wants
+(Rencanakan Sebelum Anda Berkomitmen)
+ke rencana Anda,
+to your plan,
+(Rencanakan Sebelum Anda Berkomitmen)
+tetapi Anda juga dapat memberi tahu pelanggan Anda
+but you will also be able to tell your customer
+(Rencanakan Sebelum Anda Berkomitmen)
+biaya dan penalti waktu untuk melakukan perubahan tersebut.
+the cost and time penalties of making those changes.
+(Rencanakan Sebelum Anda Berkomitmen)
+Hal utama yang perlu diingat adalah perencanaan membuat Anda lebih kuat.
+The key thing to remember is planning makes you stronger.

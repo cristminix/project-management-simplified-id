@@ -1,0 +1,198 @@
+(Pilih Tingkat Perincian)
+- Ada sedikit detail daftar tugas,
+- There's a little detail of task listing,
+(Pilih Tingkat Perincian)
+yang sedikit menjadi masalah
+which is a bit of a problem
+(Pilih Tingkat Perincian)
+dalam dunia manajemen proyek,
+in the world of project management,
+(Pilih Tingkat Perincian)
+karena tidak ada aturan pasti untuk itu.
+because there isn't an exact rule for it.
+(Pilih Tingkat Perincian)
+Dan itu, seberapa kecil Anda pergi?
+And that is, how small do you go?
+(Pilih Tingkat Perincian)
+Tingkat detail dikenal sebagai perincian,
+The level of detail is known as granularity,
+(Pilih Tingkat Perincian)
+ukuran butiran.
+the size of the grains.
+(Pilih Tingkat Perincian)
+Jelas, jika Anda memecah proyek Anda menjadi butir-butir kecil,
+Clearly, if you break your project down into tiny grains,
+(Pilih Tingkat Perincian)
+rencananya akan terlalu berat, terlalu rumit.
+the plan will be too unwieldy, too complicated.
+(Pilih Tingkat Perincian)
+Tetapi jika Anda tidak memecah tugas cukup jauh,
+But if you don't break the tasks down far enough,
+(Pilih Tingkat Perincian)
+maka Anda tidak akan memiliki pemahaman yang cukup
+then you won't have enough grip
+(Pilih Tingkat Perincian)
+tentang apa sebenarnya tugas itu,
+of what they actually consist of,
+(Pilih Tingkat Perincian)
+sehingga Anda tidak akan dapat memperkirakan
+so you won't be able to estimate
+(Pilih Tingkat Perincian)
+waktu dan biaya yang diperlukan.
+the time and the cost required.
+(Pilih Tingkat Perincian)
+Jadi tanda pertama tugas Anda terlalu besar,
+So the first sign of your tasks being too large,
+(Pilih Tingkat Perincian)
+adalah bahwa Anda tidak dapat memperkirakannya,
+is that you can't estimate them,
+(Pilih Tingkat Perincian)
+baik dalam hal waktu maupun biaya.
+either in terms of time or cost.
+(Pilih Tingkat Perincian)
+Misalnya, berapa lama waktu yang dibutuhkan untuk memasang dapur?
+For example, how long will it take to install a kitchen?
+(Pilih Tingkat Perincian)
+Berapa biayanya?
+What will it cost?
+(Pilih Tingkat Perincian)
+Jelas, kita perlu mendapatkan detail lebih lanjut
+Clearly, we need to get more detail
+(Pilih Tingkat Perincian)
+tentang apa sebenarnya yang ada di dapur ini.
+about what exactly is in this kitchen.
+(Pilih Tingkat Perincian)
+Tapi kita mungkin tidak perlu turun langsung
+But we probably don't need to go right down
+(Pilih Tingkat Perincian)
+ke tingkat lubang bor menembus dinding,
+to the level of drill hole through wall,
+(Pilih Tingkat Perincian)
+mendorong kabel melalui lubang,
+push wire through hole,
+(Pilih Tingkat Perincian)
+jadi akan ada tempat yang tepat,
+so there will be a sweet spot,
+(Pilih Tingkat Perincian)
+di mana rencana kita adalah tingkat detail atau perincian yang tepat.
+where our plan is the right level of detail or granularity.
+(Pilih Tingkat Perincian)
+Kuncinya adalah terus membagi tugas Anda
+The key is to keep breaking your tasks down
+(Pilih Tingkat Perincian)
+sampai Anda dapat memperkirakannya.
+until you can estimate them.
+(Pilih Tingkat Perincian)
+Tanda kedua dari tugas yang terlalu besar
+The second sign of tasks being too large,
+(Pilih Tingkat Perincian)
+adalah jika tugas tersebut tumpang tindih.
+is if they overlap.
+(Pilih Tingkat Perincian)
+Misalnya, jika Anda akan menggali parit sepanjang 10 mil,
+For example, if you were going to dig a 10-mile trench,
+(Pilih Tingkat Perincian)
+dan kemudian dimasukkan ke dalam pipa,
+and then put in the pipes,
+(Pilih Tingkat Perincian)
+itu hanya bisa menjadi dua tugas besar.
+they could just be two large tasks.
+(Pilih Tingkat Perincian)
+Namun pada kenyataannya, Anda mungkin tidak perlu menunggu
+But in reality, you probably wouldn't need to wait
+(Pilih Tingkat Perincian)
+sampai seluruh parit selesai
+till the whole trench was finished
+(Pilih Tingkat Perincian)
+sebelum Anda mulai memasang pipa.
+before you started putting in the pipes.
+(Pilih Tingkat Perincian)
+Jadi, Anda harus memutuskan kapan Anda bisa mulai menggunakan pipa.
+So you'd need to decide when you can start on the pipes.
+(Pilih Tingkat Perincian)
+Mungkin setelah Anda menggali mil pertama parit.
+Maybe after you've dug the first mile of the trench.
+(Pilih Tingkat Perincian)
+Jadi, Anda harus menggranulasi parit
+So you'd have to granulate the trench
+(Pilih Tingkat Perincian)
+untuk menunjukkan kapan Anda bisa mulai memasang pipa.
+to show when you can start laying the pipes.
+(Pilih Tingkat Perincian)
+Tanda ketiga dari tugas yang terlalu besar,
+The third sign of a task being too large,
+(Pilih Tingkat Perincian)
+adalah kata O terlarang,
+is the forbidden O word,
+(Pilih Tingkat Perincian)
+yang sangat buruk sehingga saya bahkan tidak dapat mengucapkannya.
+which is so bad that I can't even say it.
+(Pilih Tingkat Perincian)
+Ini dia di layar.
+Here it is on the screen.
+(Pilih Tingkat Perincian)
+Kata O harus membunyikan lonceng peringatan
+The O word should ring alarm bells
+(Pilih Tingkat Perincian)
+jika Anda atau orang lain mengatakannya,
+if you or anyone else says it,
+(Pilih Tingkat Perincian)
+karena itu pertanda pasti
+because it's a sure sign
+(Pilih Tingkat Perincian)
+bahwa Anda belum memecah tugas
+that you haven't broken a task down
+(Pilih Tingkat Perincian)
+menjadi detail yang cukup untuk menguasainya.
+into enough detail to have a grip of it.
+(Pilih Tingkat Perincian)
+Misalnya, jika pekerjaan kelistrikan di rumah saya
+For example, if the electrical work on my house
+(Pilih Tingkat Perincian)
+sedang berlangsung, selama pembangunan rumah,
+is ongoing, throughout the build of the house,
+(Pilih Tingkat Perincian)
+itu berarti tukang listrik dapat melakukan apa pun yang mereka suka,
+it means that the electricians can do whatever they like,
+(Pilih Tingkat Perincian)
+dan mereka mungkin akan melakukannya.
+and they probably will.
+(Pilih Tingkat Perincian)
+Mereka hampir tidak melakukan apa-apa di awal,
+They'll do almost nothing at the start,
+(Pilih Tingkat Perincian)
+karena mereka sudah cukup berumur
+because they've got ages,
+(Pilih Tingkat Perincian)
+dan akhirnya mereka akan melewati setengah jalan,
+and then they'll finally get going halfway through,
+(Pilih Tingkat Perincian)
+dan kemudian akan ada kepanikan besar di akhir,
+and then there'll be a big panic at the end,
+(Pilih Tingkat Perincian)
+dan kemudian mereka akan selesai terlambat.
+and then they'll finish late.
+(Pilih Tingkat Perincian)
+Saya yakin Anda telah melihat persis hal itu terjadi.
+I bet you've seen exactly that happen.
+(Pilih Tingkat Perincian)
+Jadi jawabannya adalah dengan membagi tukang listrik yang menyebalkan itu
+So the answer is to granulate those pesky electricians down
+(Pilih Tingkat Perincian)
+menjadi rencana mingguan, yang kemudian memungkinkan Anda
+to a weekly plan, which then allows you
+(Pilih Tingkat Perincian)
+untuk tetap menguasai mereka dan memantaunya setiap minggu,
+to keep a grip of them and monitor each week,
+(Pilih Tingkat Perincian)
+apakah kita masih sesuai rencana, jauh lebih baik.
+are we still on plan, much better.
+(Pilih Tingkat Perincian)
+Jadi itu perincian.
+So that's granularity.
+(Pilih Tingkat Perincian)
+Pastikan Anda mendapatkan tingkat detail yang tepat,
+Make sure you get the right level of detail,
+(Pilih Tingkat Perincian)
+tidak terlalu sedikit, tetapi juga tidak terlalu banyak.
+not too little, but also not too much.

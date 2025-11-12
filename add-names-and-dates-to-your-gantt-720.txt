@@ -1,0 +1,117 @@
+(Tambahkan nama dan tanggal ke Gantt Anda)
+- [Instruktur] Jadi, saya sudah menyiapkan jalur kritis
+- [Instructor] So, I've already set up my critical path
+(Tambahkan nama dan tanggal ke Gantt Anda)
+dan tugas mengambang saya.
+and my floating tasks.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Sekarang saya ingin menambahkan beberapa hal lagi
+Now I want to add a few more things
+(Tambahkan nama dan tanggal ke Gantt Anda)
+hanya untuk membuat bagan Gantt saya sedikit lebih bagus.
+just to make my Gantt chart a bit nicer.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Hal pertama adalah saya akan menyisipkan kolom di sini.
+The first thing is I'm going to insert a column here.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Dan ini akan menjadi nama orang
+And this is going to be the name of the person
+(Tambahkan nama dan tanggal ke Gantt Anda)
+yang melakukan tugas itu.
+who's doing the task.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Jadi saya akan memberi Dianne tugas memilih negara.
+So I'm going to give Dianne the job of choosing the country.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Cody akan mendapatkan izin.
+Cody's going to get the permit.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Dan Dianne juga dapat membeli situs tersebut.
+And Dianne can do the buying of the site as well.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Saya akan melakukan modifikasi bangunan.
+I'll do the modifying of the building.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Dan seterusnya.
+And so on.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Kemudian hal lain yang ingin saya masukkan adalah tanggal asli.
+Then the other thing I want to insert is real dates.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Jadi anggap saja hari ini adalah tanggal 12 Februari.
+So let's suppose that today is the 12th of February.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Saya akan memilih karena itu adalah hari ulang tahun saya.
+I'll choose that cause it's my birthday.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Jadi, yang akan kita lakukan adalah,
+So, what we'll do therefor is,
+(Tambahkan nama dan tanggal ke Gantt Anda)
+kita hanya menyisipkan kolom di atasnya,
+we just insert a column above that,
+(Tambahkan nama dan tanggal ke Gantt Anda)
+lalu kita bisa memasukkan tanggalnya di sini.
+and then we can put the date in here.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Jadi, katakanlah minggu pertama dimulai pada tanggal 12 Februari
+So, let's say week one is starting on the 12th of Feb,
+(Tambahkan nama dan tanggal ke Gantt Anda)
+2020, katakanlah.
+2020, let's say.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Sekarang, itu tidak cocok,
+Now, that doesn't fit on,
+(Tambahkan nama dan tanggal ke Gantt Anda)
+tapi tidak apa-apa, karena saya akan memilih seluruh baris,
+but that's okay, because I'm going to select the whole row,
+(Tambahkan nama dan tanggal ke Gantt Anda)
+dan saya akan mengklik kanan dan membuka Format Cells.
+and I'm going to right-click and go Format Cells.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Dan saya akan memilih Alignment Vertical.
+And I'm going to go Alignment Vertical.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Kemudian seminggu setelah tanggal 12 Februari
+Then a week after the 12th of February
+(Tambahkan nama dan tanggal ke Gantt Anda)
+menjadi tanggal 17 Februari.
+it's going to be the 17th of February.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Dan kemudian dengan memilih keduanya dan menyeret titik kecil
+And then by selecting those two and dragging the little dot
+(Tambahkan nama dan tanggal ke Gantt Anda)
+saya dapat meletakkan tanggalnya seperti itu.
+I can put the dates all the way across like that.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Jadi saya sekarang dapat melihat
+So I can now see
+(Tambahkan nama dan tanggal ke Gantt Anda)
+bahwa proyek saya akan selesai minggu dimulai
+that my project's going to finish week commencing
+(Tambahkan nama dan tanggal ke Gantt Anda)
+tanggal 30 Agustus.
+the 30th of August.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Dan sekarang aku punya tanggal sungguhan.
+And now I've got real dates.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Saya punya skala waktu nyata.
+I've got a real time scale.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Dan setiap orang dapat melihat buku harian mereka.
+And everyone can look at their diaries.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Dianne dapat melihat dan melihat bahwa dia memilih negara
+Dianne can look and see that she's choosing the country
+(Tambahkan nama dan tanggal ke Gantt Anda)
+selama bulan Februari, dan dia juga membantu membeli situs tersebut
+during February, and she's also helping buy the site
+(Tambahkan nama dan tanggal ke Gantt Anda)
+pada bulan Mei dan Juni.
+in May and June.
+(Tambahkan nama dan tanggal ke Gantt Anda)
+Jadi setiap orang dapat berkomitmen
+So everybody can commit
+(Tambahkan nama dan tanggal ke Gantt Anda)
+dan berjanji bahwa mereka akan melakukan bagian mereka dari rencana tersebut.
+and promise that they're going to do their parts of the plan.
