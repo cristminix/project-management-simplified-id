@@ -1,0 +1,249 @@
+(Cara Membuat Bagan Gantt)
+- Sekarang kita sampai pada Langkah Enam
+- Now we come to Step Six
+(Cara Membuat Bagan Gantt)
+yaitu membuat bagan Gantt Anda.
+which is to create your Gantt chart.
+(Cara Membuat Bagan Gantt)
+Ini pada dasarnya hanyalah bagan batang yang menunjukkan
+It's basically just a bar chart showing
+(Cara Membuat Bagan Gantt)
+semua tugas dalam rencana Anda yang digambar di sepanjang garis waktu.
+all the tasks in your plan drawn along a timeline.
+(Cara Membuat Bagan Gantt)
+Bagan Gantt sangat bagus
+Gantt charts are great
+(Cara Membuat Bagan Gantt)
+karena semuanya dibuat sesuai skala.
+because everything's drawn out to scale.
+(Cara Membuat Bagan Gantt)
+Bahkan orang yang tidak tahu apa-apa tentang manajemen proyek
+Even people who know nothing about project management
+(Cara Membuat Bagan Gantt)
+dapat langsung memahami apa yang mereka lihat,
+can immediately understand what they're looking at,
+(Cara Membuat Bagan Gantt)
+dengan tugas di samping dan tanggal di atas.
+with the tasks down the side and the dates across the top.
+(Cara Membuat Bagan Gantt)
+Membuat bagan Gantt Anda, dan disebut demikian
+Creating your Gantt chart, and by the way it's called that
+(Cara Membuat Bagan Gantt)
+karena dibuat oleh Henry Gantt
+because it was invented by Henry Gantt
+(Cara Membuat Bagan Gantt)
+sekitar seratus tahun yang lalu.
+about a hundred years ago.
+(Cara Membuat Bagan Gantt)
+Membuatnya mudah jika Anda memiliki
+Creating it is easy if you have
+(Cara Membuat Bagan Gantt)
+catatan tempel untuk dikerjakan.
+the post-it notes to work from.
+(Cara Membuat Bagan Gantt)
+Jika Anda tidak peduli dengan catatan tempel
+If you don't bother with the post-its
+(Cara Membuat Bagan Gantt)
+dan Anda langsung turun ke Gantt,
+and you drop straight to the Gantt,
+(Cara Membuat Bagan Gantt)
+maka itu akan sangat sulit, hampir tidak mungkin.
+then it will be really hard, almost impossible.
+(Cara Membuat Bagan Gantt)
+Ini akan memakan waktu lama dan kemungkinan besar
+It'll take you ages and you'll very likely
+(Cara Membuat Bagan Gantt)
+Anda akan salah.
+get some of it wrong.
+(Cara Membuat Bagan Gantt)
+Jadi selalu buat catatan tempel sebelum Anda membuat bagan Gantt Anda.
+So always do the post-its before you make your Gantt chart.
+(Cara Membuat Bagan Gantt)
+Saya akan menunjukkan kepada Anda bagaimana Anda dapat dengan mudah mengubah
+I'm going to show you how you can easily convert
+(Cara Membuat Bagan Gantt)
+rencana dalam catatan tempel menjadi bagan Gantt menggunakan Excel.
+the post-it plan across into the Gantt chart using Excel.
+(Cara Membuat Bagan Gantt)
+Saya suka Excel karena semua orang memilikinya
+I like Excel because everyone's got it
+(Cara Membuat Bagan Gantt)
+dan kita semua sudah tahu cara menggunakannya.
+and we all know how to use it already.
+(Cara Membuat Bagan Gantt)
+Tetapi Anda juga dapat menggunakan Microsoft Project
+But you could also use Microsoft Project
+(Cara Membuat Bagan Gantt)
+atau salah satu dari banyak paket perangkat lunak manajemen proyek lainnya.
+or one of many other project management software packages.
+(Cara Membuat Bagan Gantt)
+Dan prinsip yang akan saya tunjukkan adalah sama
+And the principles that I'm going to show you are the same
+(Cara Membuat Bagan Gantt)
+dengan perangkat lunak apa pun yang Anda gunakan.
+whatever software you use.
+(Cara Membuat Bagan Gantt)
+Jadi inilah cara kami melakukannya.
+So here's how we do it.
+(Cara Membuat Bagan Gantt)
+Pertama, letakkan daftar tugas di sisi kiri
+First, put a list of the tasks down the left-hand side
+(Cara Membuat Bagan Gantt)
+dengan jalur kritis terdaftar terlebih dahulu
+with the critical path listed first
+(Cara Membuat Bagan Gantt)
+dan kemudian tugas mengambang di bawahnya.
+and then the floating tasks below that.
+(Cara Membuat Bagan Gantt)
+Dan kemudian letakkan minggu di atas.
+And then put the weeks across the top.
+(Cara Membuat Bagan Gantt)
+Dan Anda tahu berapa minggu yang dibutuhkan
+And you know how many weeks are needed
+(Cara Membuat Bagan Gantt)
+untuk menyelesaikan panjang jalur kritis
+from having worked out the length of the critical path
+(Cara Membuat Bagan Gantt)
+saat Anda membuat catatan tempel.
+when you did your post-its.
+(Cara Membuat Bagan Gantt)
+Selanjutnya, Anda dapat memasukkan jalur kritis,
+Next, you can put in the critical path,
+(Cara Membuat Bagan Gantt)
+yang ditarik turun secara bertahap, seperti ini.
+which is drawn coming down in steps, like this.
+(Cara Membuat Bagan Gantt)
+Dan saya menggunakan contoh saya sebelumnya dengan waktu yang ditambahkan
+And I'm using my previous example with the times added
+(Cara Membuat Bagan Gantt)
+dengan kontingensi dan kemudian crash.
+with contingency and then crashed.
+(Cara Membuat Bagan Gantt)
+Anda dapat melihat bagaimana Bagan Gantt dengan mudah menunjukkan
+You can see how the Gantt Chart easily shows
+(Cara Membuat Bagan Gantt)
+the decision I've made to overlap the permit
+keputusan yang saya buat untuk tumpang tindih dengan izin
+(Cara Membuat Bagan Gantt)
+dan pembelian situs
+and the purchase of the site
+(Cara Membuat Bagan Gantt)
+untuk menghemat beberapa minggu.
+in order to save a couple of weeks.
+(Cara Membuat Bagan Gantt)
+Selanjutnya, kami memasukkan tugas mengambang
+Next, we put in the floating tasks
+(Cara Membuat Bagan Gantt)
+satu per satu seperti yang ditunjukkan di sini.
+one at a time as shown here.
+(Cara Membuat Bagan Gantt)
+Anda dapat melihat bahwa untuk setiap tugas saya telah meletakkan garis vertikal
+You can see that for each task I've put vertical lines
+(Cara Membuat Bagan Gantt)
+yang menunjukkan batas gerakan atau mengambang yang diperbolehkan.
+showing the limits of its allowable movement or float.
+(Cara Membuat Bagan Gantt)
+Apa yang harus terjadi setelahnya dan apa yang harus dilakukan sebelumnya?
+What must it come after and what must it be done before?
+(Cara Membuat Bagan Gantt)
+Misalnya, menemukan situs harus menunggu
+For example, finding the site must wait
+(Cara Membuat Bagan Gantt)
+sampai setelah kita memilih negara.
+until after we've chosen the country.
+(Cara Membuat Bagan Gantt)
+Dan itu harus dilakukan sebelum kita membeli situs tersebut.
+And it must be done before we purchase the site.
+(Cara Membuat Bagan Gantt)
+Jadi itulah rentangnya
+So that's the range it goes into
+(Cara Membuat Bagan Gantt)
+dan saya kemudian dapat memutuskan apakah akan melakukannya
+and I can then decide whether to do it
+(Cara Membuat Bagan Gantt)
+lebih awal atau lebih lambat dalam rentang itu.
+earlier or later within that range.
+(Cara Membuat Bagan Gantt)
+Ada dua variasi kecil,
+There are two slight variations,
+(Cara Membuat Bagan Gantt)
+keduanya telah saya tunjukkan dalam contoh saya untuk Anda.
+both of which I've shown in my example for you.
+(Cara Membuat Bagan Gantt)
+Salah satunya adalah berbagi float.
+One is the sharing of float.
+(Cara Membuat Bagan Gantt)
+Pengelola dan pembelian furnitur sama-sama cocok
+The manager and the buying of furniture both fit
+(Cara Membuat Bagan Gantt)
+antara memilih negara dan memasang furnitur
+between choosing the country and installing the furniture
+(Cara Membuat Bagan Gantt)
+sehingga mereka berbagi ruang itu.
+so they share that space.
+(Cara Membuat Bagan Gantt)
+Yang lainnya adalah floaters yang bergantung pada floaters lainnya.
+The other is floaters that depend on other floaters.
+(Cara Membuat Bagan Gantt)
+Jadi staf menggantung manajer,
+So the staff are hanging off the manager,
+(Cara Membuat Bagan Gantt)
+yang merupakan tugas bergerak, atau mengambang.
+who is a movable, or floating, task.
+(Cara Membuat Bagan Gantt)
+Ini tidak sesulit kedengarannya.
+It's not as difficult as it sounds.
+(Cara Membuat Bagan Gantt)
+Anda cukup menambahkannya dengan
+You just add them in with
+(Cara Membuat Bagan Gantt)
+vertikal yang keluar dari tugas sebelumnya.
+the verticals coming off the previous tasks.
+(Cara Membuat Bagan Gantt)
+Setelah Anda memahami kedua variasi ini,
+Once you understand these two variations,
+(Cara Membuat Bagan Gantt)
+Anda sekarang dapat membuat bagan Gantt apa pun.
+you can now make any Gantt chart.
+(Cara Membuat Bagan Gantt)
+Anda bisa membuat bagan Gantt terbesar di dunia.
+You could make the biggest Gantt chart in the world.
+(Cara Membuat Bagan Gantt)
+Cukup gunakan blok penyusun ini untuk terus menambahkan tugas
+Just use these building blocks to keep adding tasks
+(Cara Membuat Bagan Gantt)
+sampai Anda mendapatkan semuanya.
+until you've got them all.
+(Cara Membuat Bagan Gantt)
+Karena semuanya berada di luar jalur kritis,
+Since everything hangs off the critical path,
+(Cara Membuat Bagan Gantt)
+Anda dapat melihat bahwa Anda harus memiliki rencana catatan tempel
+you could see that you must have the post-it note plan
+(Cara Membuat Bagan Gantt)
+sebelum kita dapat menghasilkan bagan Gantt
+before we can produce the Gantt chart
+(Cara Membuat Bagan Gantt)
+karena itulah yang memberi tahu kita
+because that's what tells us
+(Cara Membuat Bagan Gantt)
+tugas mana yang berada di jalur kritis.
+which tasks are on the critical path.
+(Cara Membuat Bagan Gantt)
+Selalu lakukan catatan tempel Anda terlebih dahulu,
+Always do your post-its first,
+(Cara Membuat Bagan Gantt)
+lalu bagan Gantt menjadi mudah.
+and then the Gantt chart is easy.
+(Cara Membuat Bagan Gantt)
+Menurut Anda, berapa lama waktu yang dibutuhkan untuk saya?
+How long did this one take me, do you think?
+(Cara Membuat Bagan Gantt)
+10 menit, mungkin 20?
+10 minutes, maybe 20?
+(Cara Membuat Bagan Gantt)
+Sangat mudah dan menggunakan waktu
+It's easy and great use of time
+(Cara Membuat Bagan Gantt)
+karena sekarang rencana saya terlihat sangat jelas oleh semua orang.
+because now my plan is very clearly visible to everyone.

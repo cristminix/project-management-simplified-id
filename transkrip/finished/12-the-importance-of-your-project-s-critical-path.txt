@@ -1,0 +1,228 @@
+(Pentingnya Jalur Kritis Proyek Anda)
+- Sekarang kita bisa sampai ke bagian yang benar-benar kita inginkan,
+- Now we can get to the bit that we really want,
+(Pentingnya Jalur Kritis Proyek Anda)
+jalur kritis.
+the critical path.
+(Pentingnya Jalur Kritis Proyek Anda)
+Ini adalah jalur terpanjang, dan paling lambat,
+This is the longest, and therefore the slowest,
+(Pentingnya Jalur Kritis Proyek Anda)
+melalui diagram.
+path through the diagram.
+(Pentingnya Jalur Kritis Proyek Anda)
+Anda dapat melihat dalam diagram proyek saya
+You can see in the diagram of my project
+(Pentingnya Jalur Kritis Proyek Anda)
+untuk mendirikan perusahaan asing saya,
+to set up my foreign company,
+(Pentingnya Jalur Kritis Proyek Anda)
+itu melewati izin, membeli situs
+it goes through the permit, buying the site
+(Pentingnya Jalur Kritis Proyek Anda)
+memodifikasi dan menginstal,
+modifying and installing,
+(Pentingnya Jalur Kritis Proyek Anda)
+dan itu menambahkan hingga total 34 minggu.
+and it adds up to a total of 34 weeks.
+(Pentingnya Jalur Kritis Proyek Anda)
+Jadi jalur kritis hanyalah jalur paling lambat,
+So the critical path is just the slowest path,
+(Pentingnya Jalur Kritis Proyek Anda)
+dan tugas kritis
+and the critical tasks
+(Pentingnya Jalur Kritis Proyek Anda)
+hanyalah yang ada di jalur kritis.
+are just the ones on the critical path.
+(Pentingnya Jalur Kritis Proyek Anda)
+Dan ini sangat penting untuk dipahami.
+And this is really important to understand.
+(Pentingnya Jalur Kritis Proyek Anda)
+Tugas kritis tidak harus mahal
+The critical tasks aren't necessarily expensive
+(Pentingnya Jalur Kritis Proyek Anda)
+atau sulit atau berisiko atau terampil.
+or difficult or risky or skillful.
+(Pentingnya Jalur Kritis Proyek Anda)
+Memasang furnitur bukanlah hal-hal itu.
+Installing the furniture is none of those things.
+(Pentingnya Jalur Kritis Proyek Anda)
+Kebetulan berada di jalur terpanjang dan paling lambat.
+It just happens to be on the longest, slowest path.
+(Pentingnya Jalur Kritis Proyek Anda)
+Awalnya dulu disebut jalur kritis waktu,
+Originally it used to be called the time-critical path,
+(Pentingnya Jalur Kritis Proyek Anda)
+dan kemudian manajer proyek menyingkatnya menjadi jalur kritis,
+and then project managers abbreviated it to critical path,
+(Pentingnya Jalur Kritis Proyek Anda)
+karena mereka selalu membicarakan hal ini.
+because they talk about these things all the time.
+(Pentingnya Jalur Kritis Proyek Anda)
+Tapi itu cukup membingungkan bagi orang normal
+But it's quite confusing to normal people
+(Pentingnya Jalur Kritis Proyek Anda)
+ketika mereka pertama kali menemukannya.
+when they first come across it.
+(Pentingnya Jalur Kritis Proyek Anda)
+Kritis bukan berarti kritis dalam pengertian biasa.
+Critical doesn't mean critical in the usual sense.
+(Pentingnya Jalur Kritis Proyek Anda)
+Itu hanya berarti waktu-kritis.
+It just means time-critical.
+(Pentingnya Jalur Kritis Proyek Anda)
+Jadi Jika sesuatu yang sangat sepele
+So If something completely trivial
+(Pentingnya Jalur Kritis Proyek Anda)
+bisa berada di jalur terpanjang,
+can be on the longest path,
+(Pentingnya Jalur Kritis Proyek Anda)
+dalam contoh saya di sini adalah memasang furnitur,
+in my example here it's installing furniture,
+(Pentingnya Jalur Kritis Proyek Anda)
+maka sesuatu yang sangat penting
+then something really important
+(Pentingnya Jalur Kritis Proyek Anda)
+mungkin merupakan tugas yang tidak penting.
+might be a non-critical task.
+(Pentingnya Jalur Kritis Proyek Anda)
+Dalam contoh saya di sini, ini merekrut
+In my example here, it's recruiting
+(Pentingnya Jalur Kritis Proyek Anda)
+manajer dan staf.
+the manager and the staff.
+(Pentingnya Jalur Kritis Proyek Anda)
+Satu-satunya cara untuk mengetahui apa yang kritis
+The only way you can know what's critical
+(Pentingnya Jalur Kritis Proyek Anda)
+adalah dengan menggambar diagram.
+is by drawing the diagram.
+(Pentingnya Jalur Kritis Proyek Anda)
+Ini semua tentang hubungan antara tugas.
+It's all about the relationship between the tasks.
+(Pentingnya Jalur Kritis Proyek Anda)
+Anda harus menggambar diagram untuk mengetahui apa yang penting.
+You have to draw the diagram to know what's critical.
+(Pentingnya Jalur Kritis Proyek Anda)
+Anda tidak boleh mengatakan, "Yah, jelas izin itu adalah
+You must never say, &quot;Well, obviously the permit's
+(Pentingnya Jalur Kritis Proyek Anda)
+" tugas penting, "karena itu mungkin bukan.
+&quot;a critical task,&quot; because it might not be.
+(Pentingnya Jalur Kritis Proyek Anda)
+Ya, ini adalah pemecah kesepakatan,
+Yes, it's a deal breaker,
+(Pentingnya Jalur Kritis Proyek Anda)
+tetapi setiap tugas adalah pemecah kesepakatan.
+but every task is a deal breaker.
+(Pentingnya Jalur Kritis Proyek Anda)
+Setiap tugas harus diselesaikan.
+Every task has to be done.
+(Pentingnya Jalur Kritis Proyek Anda)
+Tapi mengapa kita peduli apa yang kritis?
+But why do we care what's critical?
+(Pentingnya Jalur Kritis Proyek Anda)
+Nah, karena ini adalah tugas
+Well, because these are the tasks
+(Pentingnya Jalur Kritis Proyek Anda)
+yang memberi tahu kita berapa lama waktu yang dibutuhkan proyek,
+that tell us how long the project's going to take,
+(Pentingnya Jalur Kritis Proyek Anda)
+dan itu juga tugas
+and they're also the ones
+(Pentingnya Jalur Kritis Proyek Anda)
+yang perlu kita perhatikan dengan cermat.
+that we need to watch carefully.
+(Pentingnya Jalur Kritis Proyek Anda)
+Ini adalah tugas yang membentuk skala waktu
+These are the ones that make up the time scale
+(Pentingnya Jalur Kritis Proyek Anda)
+bahwa kami telah secara efektif menjanjikan pelanggan,
+that we have effectively promised the customer,
+(Pentingnya Jalur Kritis Proyek Anda)
+dan jika mereka terlambat, seluruh pekerjaan akan terlambat.
+and if they run late, the whole job runs late.
+(Pentingnya Jalur Kritis Proyek Anda)
+Tugas-tugas lain terjadi secara paralel,
+The other tasks are happening in parallel,
+(Pentingnya Jalur Kritis Proyek Anda)
+dengan margin keamanan yang dikenal sebagai float,
+with a safety margin that's known as float,
+(Pentingnya Jalur Kritis Proyek Anda)
+dan mereka bisa sedikit terlambat tanpa masalah sama sekali.
+and they can go a bit late without it mattering at all.
+(Pentingnya Jalur Kritis Proyek Anda)
+Jadi, Anda ingin menempatkan orang-orang terbaik Anda pada tugas-tugas penting
+So you want to put your best people on the critical tasks
+(Pentingnya Jalur Kritis Proyek Anda)
+dan kemudian memperhatikannya dengan sangat hati-hati,
+and then watch them really carefully,
+(Pentingnya Jalur Kritis Proyek Anda)
+dan Anda ingin memastikan bahwa Anda telah memperkirakannya
+and you want to make sure that you've estimated them
+(Pentingnya Jalur Kritis Proyek Anda)
+dengan benar sejak awal.
+correctly to start with.
+(Pentingnya Jalur Kritis Proyek Anda)
+Jika perkiraan Anda sedikit keluar
+If your estimates are a bit out
+(Pentingnya Jalur Kritis Proyek Anda)
+dari tugas lain, tidak masalah.
+on the other tasks, it doesn't matter.
+(Pentingnya Jalur Kritis Proyek Anda)
+Dalam contoh saya, mendapatkan seorang manajer
+In my example, getting a manager
+(Pentingnya Jalur Kritis Proyek Anda)
+bisa memakan waktu dua kali lebih lama dan itu tidak masalah,
+could take twice as long and it wouldn't matter,
+(Pentingnya Jalur Kritis Proyek Anda)
+tetapi pada yang kritis mereka harus benar.
+but on the critical ones they have to be correct.
+(Pentingnya Jalur Kritis Proyek Anda)
+Tapi kita perlu sedikit mengawasi
+But we do need to keep a bit of an eye
+(Pentingnya Jalur Kritis Proyek Anda)
+tugas-tugas non-kritis, kalau-kalau ada perubahan.
+on the non-critical tasks, just in case something changes.
+(Pentingnya Jalur Kritis Proyek Anda)
+Misalnya, jika kita memutuskan untuk melakukan suatu tugas lebih cepat,
+For example, if we decide to do a task quicker,
+(Pentingnya Jalur Kritis Proyek Anda)
+mungkin kita memutuskan untuk membelanjakan lebih banyak uang untuk itu
+maybe we decide to spend more money on it
+(Pentingnya Jalur Kritis Proyek Anda)
+atau melakukannya dengan kurang baik, hal lain
+or do it less well, something else
+(Pentingnya Jalur Kritis Proyek Anda)
+mungkin menjadi jalur terpanjang baru kita,
+may become our new longest path,
+(Pentingnya Jalur Kritis Proyek Anda)
+jalur kritis baru kita.
+our new critical path.
+(Pentingnya Jalur Kritis Proyek Anda)
+Jadi Catatan Tempel memungkinkan kita
+So the Post-its allow us
+(Pentingnya Jalur Kritis Proyek Anda)
+untuk memutuskan urutan berjalan dengan cara yang mudah,
+to decide on the running order in an easy way,
+(Pentingnya Jalur Kritis Proyek Anda)
+dan kemudian memungkinkan kita menemukan jalur terpanjang,
+and then they allow us to find the longest path,
+(Pentingnya Jalur Kritis Proyek Anda)
+jalur kritis.
+the critical path.
+(Pentingnya Jalur Kritis Proyek Anda)
+Saya ingin Anda kembali ke contoh Anda sekarang
+I'd like you to go back to your example now
+(Pentingnya Jalur Kritis Proyek Anda)
+dan mencobanya sendiri.
+and try it for yours.
+(Pentingnya Jalur Kritis Proyek Anda)
+Dapatkah Anda melihat jalur mana yang terpanjang?
+Can you see which path is the longest one?
+(Pentingnya Jalur Kritis Proyek Anda)
+Saya yakin Anda akan setuju bahwa itu mudah ditemukan
+I'm sure you'll agree that it's easy to find
+(Pentingnya Jalur Kritis Proyek Anda)
+dan sangat berguna untuk diketahui.
+and really useful to know.

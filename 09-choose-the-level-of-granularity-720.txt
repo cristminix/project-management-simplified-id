@@ -1,0 +1,66 @@
+- There's a little detail of task listing,
+which is a bit of a problem
+in the world of project management,
+because there isn't an exact rule for it.
+And that is, how small do you go?
+The level of detail is known as granularity,
+the size of the grains.
+Clearly, if you break your project down into tiny grains,
+the plan will be too unwieldy, too complicated.
+But if you don't break the tasks down far enough,
+then you won't have enough grip
+of what they actually consist of,
+so you won't be able to estimate
+the time and the cost required.
+So the first sign of your tasks being too large,
+is that you can't estimate them,
+either in terms of time or cost.
+For example, how long will it take to install a kitchen?
+What will it cost?
+Clearly, we need to get more detail
+about what exactly is in this kitchen.
+But we probably don't need to go right down
+to the level of drill hole through wall,
+push wire through hole,
+so there will be a sweet spot,
+where our plan is the right level of detail or granularity.
+The key is to keep breaking your tasks down
+until you can estimate them.
+The second sign of tasks being too large,
+is if they overlap.
+For example, if you were going to dig a 10-mile trench,
+and then put in the pipes,
+they could just be two large tasks.
+But in reality, you probably wouldn't need to wait
+till the whole trench was finished
+before you started putting in the pipes.
+So you'd need to decide when you can start on the pipes.
+Maybe after you've dug the first mile of the trench.
+So you'd have to granulate the trench
+to show when you can start laying the pipes.
+The third sign of a task being too large,
+is the forbidden O word,
+which is so bad that I can't even say it.
+Here it is on the screen.
+The O word should ring alarm bells
+if you or anyone else says it,
+because it's a sure sign
+that you haven't broken a task down
+into enough detail to have a grip of it.
+For example, if the electrical work on my house
+is ongoing, throughout the build of the house,
+it means that the electricians can do whatever they like,
+and they probably will.
+They'll do almost nothing at the start,
+because they've got ages,
+and then they'll finally get going halfway through,
+and then there'll be a big panic at the end,
+and then they'll finish late.
+I bet you've seen exactly that happen.
+So the answer is to granulate those pesky electricians down
+to a weekly plan, which then allows you
+to keep a grip of them and monitor each week,
+are we still on plan, much better.
+So that's granularity.
+Make sure you get the right level of detail,
+not too little, but also not too much.
